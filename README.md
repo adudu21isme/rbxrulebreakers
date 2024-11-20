@@ -13,7 +13,7 @@ Made to work with https://github.com/adudu21isme/banwavedeveloperconsolescript
 
 ## To fetch list
 ```luau
-print(game:GetService("HttpService"):GetAsync("https://rbxexploiterlist.vercel.app/users"))
+print(game:GetService("HttpService"):GetAsync("https://raw.githubusercontent.com/adudu21isme/exploiterlist/refs/heads/main/users"))
 ```
 ## To prevent players on list from joining (Note that BanAsync only works in roblox servers):
 ```luau
@@ -36,7 +36,7 @@ local function FetchList()
    local s,r,t=nil,nil,3
    repeat
       s,r=pcall(function()
-         return http:GetAsync("https://rbxexploiterlist.vercel.app/users",true)
+         return http:GetAsync("https://raw.githubusercontent.com/adudu21isme/exploiterlist/refs/heads/main/users",true)
       end)
       if not s then
          t-=1
