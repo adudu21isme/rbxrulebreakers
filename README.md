@@ -32,13 +32,6 @@ local fetching = nil
 local list = nil
 
 --// Functions
-local function StringToTable(input)
-   input=input:match("%{(.*)%}")
-   local t = {}
-   for v in input:gmatch("[^,]+") do table.insert(t,tonumber(v) or v)end
-   return t
-end
-
 local function FetchList()
    if fetching then while task.wait(1) do if not fetching then return end end end
    fetching=true
@@ -51,7 +44,7 @@ local function FetchList()
          if string.find(r,"exceeded") then warn("⚠️RBX RATELIMIT. Waiting 60sec...")task.wait(60)else t=-1 task.wait(1)end
       end
    until s or t == 0
-   if s then list=StringToTable(r)end
+   if s then list=string.split(r,",")end
    fetching=nil
 end
 
@@ -67,7 +60,7 @@ plrs.PlayerAdded:Connect(function(p)
    local id = p.UserId
    --// Is user on list? Put this somewhere that its ok if the code yields
    if not list then FetchList()end
-   if list and table.find(list,id) then
+   if list and table.find(list,tostring(id)) then
       --// Use BanAsync on the exploiter (offender)
       local s,r,t = nil,nil,3
       repeat
