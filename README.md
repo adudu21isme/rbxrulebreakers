@@ -9,12 +9,13 @@ If you want a exploiter to be added onto the list, create a pull request; includ
 
 Made to work with https://github.com/adudu21isme/banwavedeveloperconsolescript
 
-Using in roblox:
-To fetch list
+# Using in roblox:
+
+## To fetch list
 ```luau
 print(game:GetService("HttpService"):GetAsync("https://rbxexploiterlist.vercel.app/users"))
 ```
-To prevent players on list from joining (Note that BanAsync only works in roblox servers):
+## To prevent players on list from joining (Note that BanAsync only works in roblox servers):
 ```luau
 --// Services
 local plrs = game:GetService("Players")
