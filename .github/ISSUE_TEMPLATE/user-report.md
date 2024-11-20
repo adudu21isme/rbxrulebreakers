@@ -9,7 +9,7 @@ assignees: adudu21isme
 
 **Video Evidence**
 Clear proof of the user exploiting.
-Press the roblox ESC Menu, show their username and click on their username on the In-game Playerlist
+Press the roblox ESC Menu, show their username and click their username on the in-game playerlist
 
 **UserId or Username**
 
