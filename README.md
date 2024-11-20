@@ -15,7 +15,7 @@ Made to also work with https://github.com/adudu21isme/banwavedeveloperconsolescr
 
 [Click me if you want to ban 6K+ potential exploiters](https://github.com/adudu21isme/groupbanwavedeveloperconsolescript)
 
-# Using in roblox:
+# Using in roblox (examples):
 
 ## To fetch list
 ```luau
