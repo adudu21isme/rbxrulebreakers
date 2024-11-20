@@ -32,7 +32,7 @@ local function StringToTable(input)
    return t
 end
 
-local function fetchList()
+local function FetchList()
    local s,r,t=nil,nil,3
    repeat
       s,r=pcall(function()
@@ -50,7 +50,7 @@ end
 --// Update list cache every minute
 task.spawn(function()
    while task.wait(60) do
-      fetchList()
+      FetchList()
    end
 end)
 
@@ -58,7 +58,7 @@ end)
 plrs.PlayerAdded:Connect(function(p)
    local id = p.UserId
    --// Is user on list? Put this somewhere that its ok if the code yields
-   if not list then fetchList()end
+   if not list then FetchList()end
    if list then
       if table.find(list,id) then
          --// Use BanAsync on the exploiter (offender)
