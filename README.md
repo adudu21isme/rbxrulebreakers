@@ -1,3 +1,5 @@
+# Do not currently use this, i am trying to make a API for this.
+
 # Roblox Exploiter (Cheater) List
 **This list may update at any time, this is a list of confirmed roblox exploiters that i wanted to be added onto a list.**
 
