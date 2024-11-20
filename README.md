@@ -1,4 +1,4 @@
-# Roblox Terms Of Service Violators and Exploiters List 
+# Roblox Exploiters and Terms Of Service Violators List 
 **This is a list of confirmed roblox exploiters and TOS breakers (only serious TOS violations are counted).**
 
 If you want a TOS-Breaker or Exploiter to be added onto the list, [create a issue](https://github.com/adudu21isme/rbxrulebreakers/issues/new?assignees=adudu21isme&labels=report&projects=&template=user-report.md&title=%5BUSER+REPORT%5D)
