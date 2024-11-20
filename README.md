@@ -44,7 +44,7 @@ local function FetchList()
          if string.find(r,"exceeded") then warn("⚠️RBX RATELIMIT. Waiting 60sec...")task.wait(60)else t=-1 task.wait(1)end
       end
    until s or t == 0
-   if s then list=string.split(r,",") end
+   if s then list=string.split(r,",")end
    fetching=nil
 end
 
