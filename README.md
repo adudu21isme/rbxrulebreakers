@@ -13,6 +13,8 @@ If you want a Serious TOS-Breaker or Exploiter to be added onto the list, [creat
 
 Made to also work with https://github.com/adudu21isme/banwavedeveloperconsolescript
 
+[Click me if you want to ban 6K+ potential exploiters](https://github.com/adudu21isme/groupbanwavedeveloperconsolescript)
+
 # Using in roblox:
 
 ## To fetch list
