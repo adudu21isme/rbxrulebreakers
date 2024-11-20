@@ -1,17 +1,17 @@
-# Roblox Exploiter (Cheater) List
-**This list may update at any time, this is a list of confirmed roblox exploiters that i wanted to be added onto a list.**
+# Roblox Terms Of Service Violators and Exploiters List 
+**This is a list of confirmed roblox exploiters and TOS breakers (only serious TOS violations are counted).**
 
-If you want a exploiter to be added onto the list, [create a issue](https://github.com/adudu21isme/exploiterlist/issues/new?assignees=adudu21isme&labels=report&projects=&template=user-report.md&title=%5BUSER+REPORT%5D)
+If you want a TOS-Breaker or Exploiter to be added onto the list, [create a issue](https://github.com/adudu21isme/tosbreakers/issues/new?assignees=adudu21isme&labels=report&projects=&template=user-report.md&title=%5BUSER+REPORT%5D)
 
 **Users are manually added**
 
-Made to work with https://github.com/adudu21isme/banwavedeveloperconsolescript
+Made to also work with https://github.com/adudu21isme/banwavedeveloperconsolescript
 
 # Using in roblox:
 
 ## To fetch list
 ```luau
-print(game:GetService("HttpService"):GetAsync("https://raw.githubusercontent.com/adudu21isme/exploiterlist/refs/heads/main/users"))
+print(game:GetService("HttpService"):GetAsync("https://raw.githubusercontent.com/adudu21isme/tosbreakers/refs/heads/main/users"))
 ```
 ## To prevent players on list from joining (Note that BanAsync only works in roblox servers):
 ```luau
@@ -34,7 +34,7 @@ local function FetchList()
    local s,r,t=nil,nil,3
    repeat
       s,r=pcall(function()
-         return http:GetAsync("https://raw.githubusercontent.com/adudu21isme/exploiterlist/refs/heads/main/users",true)
+         return http:GetAsync("https://raw.githubusercontent.com/adudu21isme/tosbreakers/refs/heads/main/users",true)
       end)
       if not s then
          t-=1
@@ -62,7 +62,7 @@ plrs.PlayerAdded:Connect(function(p)
       local s,r,t = nil,nil,3
       repeat
          s,r = pcall(function()
-            return plrs:BanAsync({UserIds={id},Duration=-1,DisplayReason="Exploiting is not permitted.",PrivateReason="User has used exploits in other roblox games. https://github.com/adudu21isme/exploiterlist",ExcludeAltAccounts=false,ApplyToUniverse=true})  
+            return plrs:BanAsync({UserIds={id},Duration=-1,DisplayReason="Exploiting or violating serious roblox rule's are not permitted.",PrivateReason="User exploited or violated serious roblox rule's (TOS). https://github.com/adudu21isme/exploiterlist",ExcludeAltAccounts=false,ApplyToUniverse=true})  
          end)
          if not s then
             if string.find(r,"NOT_FOUND") then --// Avoid errors from terminated users
