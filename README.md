@@ -28,7 +28,7 @@ local list = nil
 local function StringToTable(input)
    input=input:match("%{(.*)%}")
    local t = {}
-   for value in input:gmatch("[^,]+") do table.insert(t,tonumber(value) or value)end
+   for v in input:gmatch("[^,]+") do table.insert(t,tonumber(v) or v)end
    return t
 end
 
