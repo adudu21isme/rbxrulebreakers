@@ -54,27 +54,25 @@ task.spawn(function()
    end
 end)
 
---// PlayerAdded
+--// When new players join
 plrs.PlayerAdded:Connect(function(p)
    local id = p.UserId
    --// Is user on list? Put this somewhere that its ok if the code yields
    if not list then FetchList()end
-   if list then
-      if table.find(list,id) then
-         --// Use BanAsync on the exploiter (offender)
-         local s,r,t = nil,nil,3
-         repeat
-            s,r = pcall(function()
-               return plrs:BanAsync({UserIds={id},Duration=-1,DisplayReason="Exploiting is not permitted.",PrivateReason="User has used exploits in other roblox games. https://github.com/adudu21isme/exploiterlist",ExcludeAltAccounts=false,ApplyToUniverse=true})  
-            end)
-            if not s then
-               if string.find(r,"NOT_FOUND") then --// Avoid errors from terminated users
-                  s="t"
-               else t-=1 task.wait(0.5)
-               end
+   if list and table.find(list,id) then
+      --// Use BanAsync on the exploiter (offender)
+      local s,r,t = nil,nil,3
+      repeat
+         s,r = pcall(function()
+            return plrs:BanAsync({UserIds={id},Duration=-1,DisplayReason="Exploiting is not permitted.",PrivateReason="User has used exploits in other roblox games. https://github.com/adudu21isme/exploiterlist",ExcludeAltAccounts=false,ApplyToUniverse=true})  
+         end)
+         if not s then
+            if string.find(r,"NOT_FOUND") then --// Avoid errors from terminated users
+               s="t"
+            else t-=1 task.wait(0.5)
             end
-         until s or t==0   
-      end
+         end
+      until s or t==0   
    end
 end)
 ```
