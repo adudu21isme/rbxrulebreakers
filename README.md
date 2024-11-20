@@ -62,7 +62,7 @@ plrs.PlayerAdded:Connect(function(p)
       local s,r,t = nil,nil,3
       repeat
          s,r = pcall(function()
-            return plrs:BanAsync({UserIds={id},Duration=-1,DisplayReason="Exploiting or violating serious roblox rule's are not permitted.",PrivateReason="User exploited or violated serious roblox rule's (TOS). https://github.com/adudu21isme/exploiterlist",ExcludeAltAccounts=false,ApplyToUniverse=true})  
+            return plrs:BanAsync({UserIds={id},Duration=-1,DisplayReason="Exploiting or violating serious roblox rules is not permitted.",PrivateReason="User exploited in other roblox games or violated serious roblox rules (TOS). DO NOT UNBAN THIS USER. View the list here: https://github.com/adudu21isme/exploiterlist",ExcludeAltAccounts=false,ApplyToUniverse=true})  
          end)
          if not s then
             if string.find(r,"NOT_FOUND") then --// Avoid errors from terminated users
