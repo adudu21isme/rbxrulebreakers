@@ -32,6 +32,13 @@ local fetching = nil
 local list = nil
 
 --// Functions
+local function StringToTable(input)
+   input=input:match("%{(.*)%}")
+   local t = {}
+   for v in input:gmatch("[^,]+") do table.insert(t,tonumber(v) or v)end
+   return t
+end
+
 local function FetchList()
    if fetching then while task.wait(1) do if not fetching then return end end end
    fetching=true
@@ -44,7 +51,7 @@ local function FetchList()
          if string.find(r,"exceeded") then warn("⚠️RBX RATELIMIT. Waiting 60sec...")task.wait(60)else t=-1 task.wait(1)end
       end
    until s or t == 0
-   if s then list=string.split(r,",")end
+   if s then list=StringToTable(r) end
    fetching=nil
 end
 
