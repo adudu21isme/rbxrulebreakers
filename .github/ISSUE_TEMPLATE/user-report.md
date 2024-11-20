@@ -1,6 +1,6 @@
 ---
 name: User Report
-about: Request to add exploiters onto the list
+about: Report exploiters or Serious TOS Violators
 title: "[USER REPORT]"
 labels: report
 assignees: adudu21isme
