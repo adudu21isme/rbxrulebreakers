@@ -72,7 +72,7 @@ plrs.PlayerAdded:Connect(function(p)
       local s,r,t = nil,nil,3
       repeat
          s,r = pcall(function()
-            return plrs:BanAsync({UserIds={id},Duration=-1,DisplayReason="Exploiting or Violation of Serious Roblox Terms Of Service in other roblox games.",PrivateReason="User exploited in other roblox games or violated serious roblox rules (TOS). DO NOT UNBAN THIS USER. View the list here: https://github.com/adudu21isme/exploiterlist",ExcludeAltAccounts=false,ApplyToUniverse=true})  
+            return plrs:BanAsync({UserIds={id},Duration=-1,DisplayReason="Exploiting or Violation of Serious Roblox Terms Of Service in other roblox games.",PrivateReason="User exploited in other roblox games or violated serious roblox rules (TOS). DO NOT UNBAN THIS USER. View the list here: https://github.com/adudu21isme/rbxrulebreakers",ExcludeAltAccounts=false,ApplyToUniverse=true})  
          end)
          if not s then
             t-=1 
