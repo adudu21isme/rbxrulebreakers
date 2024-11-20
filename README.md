@@ -1,9 +1,9 @@
 # Roblox Exploiters and Terms Of Service Violators List 
 **This is a list of confirmed roblox exploiters and TOS breakers (only serious TOS violations are counted).**
 
-If you want a TOS-Breaker or Exploiter to be added onto the list, [create a issue](https://github.com/adudu21isme/rbxrulebreakers/issues/new?assignees=adudu21isme&labels=report&projects=&template=user-report.md&title=%5BUSER+REPORT%5D)
+If you want a Serious TOS-Breaker or Exploiter to be added onto the list, [create a issue.](https://github.com/adudu21isme/rbxrulebreakers/issues/new?assignees=adudu21isme&labels=report&projects=&template=user-report.md&title=%5BUSER+REPORT%5D)
 
-**Users are manually added**
+**Users are manually added.**
 
 Made to also work with https://github.com/adudu21isme/banwavedeveloperconsolescript
 
@@ -13,7 +13,7 @@ Made to also work with https://github.com/adudu21isme/banwavedeveloperconsolescr
 ```luau
 print(game:GetService("HttpService"):GetAsync("https://raw.githubusercontent.com/adudu21isme/rbxrulebreakers/refs/heads/main/users"))
 ```
-## To prevent players on list from joining (Note that BanAsync only works in roblox servers):
+## To prevent players on the list from joining (Note that BanAsync only works in roblox servers):
 ```luau
 --// Services
 local plrs = game:GetService("Players")
@@ -62,7 +62,7 @@ plrs.PlayerAdded:Connect(function(p)
       local s,r,t = nil,nil,3
       repeat
          s,r = pcall(function()
-            return plrs:BanAsync({UserIds={id},Duration=-1,DisplayReason="Exploiting or violating serious roblox rules is not permitted.",PrivateReason="User exploited in other roblox games or violated serious roblox rules (TOS). DO NOT UNBAN THIS USER. View the list here: https://github.com/adudu21isme/exploiterlist",ExcludeAltAccounts=false,ApplyToUniverse=true})  
+            return plrs:BanAsync({UserIds={id},Duration=-1,DisplayReason="Exploiting or violation of Serious Roblox Terms Of Service in other games.",PrivateReason="User exploited in other roblox games or violated serious roblox rules (TOS). DO NOT UNBAN THIS USER. View the list here: https://github.com/adudu21isme/exploiterlist",ExcludeAltAccounts=false,ApplyToUniverse=true})  
          end)
          if not s then
             if string.find(r,"NOT_FOUND") then --// Avoid errors from terminated users
