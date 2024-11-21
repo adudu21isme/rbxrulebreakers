@@ -8,7 +8,7 @@ assignees: adudu21isme
 ---
 
 **Video Evidence**
-Clear proof of the user exploiting.
+Clear proof of the user exploiting or Violating Serious TOS.
 Press the roblox ESC Menu, show their username and click their username on the in-game playerlist
 
 **UserId or Username**
