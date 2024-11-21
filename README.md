@@ -1,5 +1,5 @@
 # Roblox Exploiters and Terms Of Service Violators List 
-**This is a list of confirmed roblox exploiters and TOS-Breakers (only serious TOS violations are counted).**
+**This is a list of confirmed roblox exploiters (primary) and TOS-Breakers (only serious TOS violations are counted).**
 
 A Serious TOS-Breaker is a user which violates rules of roblox that can be considered serious, such as but not limited to;
 1. Child endangerment
@@ -10,6 +10,8 @@ A Serious TOS-Breaker is a user which violates rules of roblox that can be consi
 If you want a Serious TOS-Breaker or Exploiter to be added onto the list, [create a issue.](https://github.com/adudu21isme/rbxrulebreakers/issues/new?assignees=adudu21isme&labels=report&projects=&template=user-report.md&title=%5BUSER+REPORT%5D)
 
 **Users are manually added.**
+
+**If you don't trust this, don't use it. For users to be added, they must be proven guilty.**
 
 Made to also work with https://github.com/adudu21isme/banwavedeveloperconsolescript
 
