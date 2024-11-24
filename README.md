@@ -2,11 +2,12 @@
 **This is a list of confirmed roblox exploiters (primary) and TOS-Breakers (only serious TOS violations are counted).**
 
 A Serious TOS-Breaker is a user which violates rules of roblox that can be considered serious, such as but not limited to;
-1. Child endangerment
-2. Scamming
-3. Death threats
-4. Content Stealing
-5. illegal Activities
+1. NSFW/NSFL (Inappropriate actions such as but not limited to adult content and graphic content, unappealable.)
+2. Content Stealing (Intentionally stealing assets of other roblox games, unappealable.)
+3. Maliciously DMCA'ing assets/games (False DMCA. Maliciously is when the user DMCA'ing does not have copyright over the content, unappealable.)
+4. Scamming (appealable under certain circumstances)
+5. Death threats (appealable under certain circumstances)
+6. illegal Activities (Depends on severity)
 
 If you want a Serious TOS-Breaker or Exploiter to be added onto the list, [create a issue.](https://github.com/adudu21isme/rbxrulebreakers/issues/new?assignees=adudu21isme&labels=report&projects=&template=user-report.md&title=%5BUSER+REPORT%5D)
 
