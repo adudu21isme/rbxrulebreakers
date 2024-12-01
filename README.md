@@ -5,8 +5,8 @@ A Serious TOS-Breaker is a user which violates rules of roblox that can be consi
 1. NSFW/NSFL (Inappropriate actions such as but not limited to adult content and graphic content, unappealable.)
 2. Content Stealing (Intentionally stealing assets of other roblox games, unappealable.)
 3. Maliciously DMCA'ing assets/games (False DMCA. Maliciously is when the user DMCA'ing does not have copyright over the content, unappealable.)
-4. Scamming (appealable under certain circumstances)
-5. Death threats (appealable under certain circumstances)
+4. Scamming (unappealable.)
+5. Death threats (unappealable.)
 6. Exploiting (unappealable.)
 7. illegal Activities (Depends on severity)
 
