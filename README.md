@@ -76,7 +76,8 @@ plrs.PlayerAdded:Connect(function(p)
             t-=1 
             task.wait(0.5)
          end
-      until s or t==0   
+      until s or t==0
+      if not s then return p:Kick("Exploiting or Violation of Serious Roblox Terms Of Service in other roblox games.") end
    end
 end)
 ```
