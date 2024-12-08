@@ -53,12 +53,14 @@ local function FetchList()
    fetching=nil
 end
 
+--[[
 --// Update list cache every minute
 task.spawn(function()
    while task.wait(60) do
       FetchList()
    end
 end)
+]]--
 
 --// When new players join
 plrs.PlayerAdded:Connect(function(p)
@@ -70,7 +72,8 @@ plrs.PlayerAdded:Connect(function(p)
       local s,r,t = nil,nil,3
       repeat
          s,r = pcall(function()
-            return plrs:BanAsync({UserIds={id},Duration=-1,DisplayReason="Exploiting or Violation of Serious Roblox Terms Of Service in other roblox games.",PrivateReason="User exploited in other roblox games or violated serious roblox rules (TOS). View the list here: https://github.com/adudu21isme/rbxrulebreakers",ExcludeAltAccounts=false,ApplyToUniverse=true})  
+            return plrs:BanAsync({UserIds={id},Duration=-1,DisplayReason=[[Exploiting or Violation of Roblox TOS ("Terms Of Service") (or the rules ("Community Standards")).
+You may appeal at adudu21's Roblox-Rule-Breakers list.]],PrivateReason=[[Violated Roblox Terms Of Service, Community Standards or Cheated ("Exploited") in other roblox games. Full list at https://github.com/adudu21isme/rbxrulebreakers]],ExcludeAltAccounts=false,ApplyToUniverse=true})  
          end)
          if not s then
             t-=1 
