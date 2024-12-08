@@ -72,7 +72,7 @@ plrs.PlayerAdded:Connect(function(p)
       local s,r,t = nil,nil,3
       repeat
          s,r = pcall(function()
-            return plrs:BanAsync({UserIds={id},Duration=-1,DisplayReason=[[Exploiting or Violation of Roblox TOS ("Terms Of Service") (or the rules ("Community Standards")).
+            return plrs:BanAsync({UserIds={id},Duration=-1,DisplayReason=[[Exploiting or Violation of Roblox TOS ("Terms Of Service") or the rules ("Community Standards").
 You may appeal at adudu21's Roblox-Rule-Breakers list.]],PrivateReason=[[Violated Roblox Terms Of Service, Community Standards or Cheated ("Exploited") in other roblox games. Full list at https://github.com/adudu21isme/rbxrulebreakers]],ExcludeAltAccounts=false,ApplyToUniverse=true})  
          end)
          if not s then
