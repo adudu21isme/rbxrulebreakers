@@ -37,6 +37,8 @@ local fetching = nil
 local list = nil
 
 --// Functions
+
+-- Fetches the latest list of https://github.com/adudu21isme/rbxrulebreakers
 local function FetchList()
    if fetching then while task.wait(1) do if not fetching then return end end end
    fetching=true
