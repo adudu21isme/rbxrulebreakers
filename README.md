@@ -65,7 +65,7 @@ end)
 --// When new players join
 plrs.PlayerAdded:Connect(function(p)
    local id = p.UserId
-   --// Is user on list? Put this somewhere that its ok if the code yields
+   --// Is User on list? Put this somewhere that its ok if the code yields
    if not list then FetchList()end
    if list and table.find(list,tostring(id)) then
       --// Use BanAsync on the exploiter (offender)
