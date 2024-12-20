@@ -55,14 +55,12 @@ local function FetchList()
    fetching=nil
 end
 
---[[
 --// Update list cache every minute
 task.spawn(function()
-   while task.wait(60) do
+   while task.wait(3600) do
       FetchList()
    end
 end)
-]]--
 
 --// When new players join
 plrs.PlayerAdded:Connect(function(p)
