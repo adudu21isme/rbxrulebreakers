@@ -55,7 +55,7 @@ local function FetchList()
    fetching=nil
 end
 
---// Update list cache every minute
+--// Update list cache every hour
 task.spawn(function()
    while task.wait(3600) do
       FetchList()
