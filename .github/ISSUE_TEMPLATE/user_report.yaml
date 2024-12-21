@@ -35,7 +35,7 @@ body:
   - type: input
     id: evidence
     attributes:
-      label: Youtube video with evidence
+      label: Youtube Video Evidence
       description: "If your video is long, please mention at what timestamp the evidence is at in Additional information."
       placeholder: "https://www.youtube.com/watch?v=video"
     validations:
