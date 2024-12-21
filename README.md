@@ -9,7 +9,7 @@ Report users by [creating an issue.](https://github.com/adudu21isme/rbxrulebreak
 
 Appeal by [creating an issue.](https://github.com/adudu21isme/rbxrulebreakers/issues/new?assignees=adudu21isme&labels=List+Appeal&projects=&template=appeal.yaml&title=%5BAPPEAL%5D+) (appeals are not always accepted, it depends on the Severity and Context.)
 
-**Users are manually added. Terminated users may be removed**
+**Users are manually added. Terminated users may be removed.**
 
 # Using in roblox (examples):
 
