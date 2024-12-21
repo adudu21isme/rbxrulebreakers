@@ -5,9 +5,9 @@
 
 A Serious TOS-Breaker is a user which violates rules of roblox that can be considered serious.
 
-Report users by [creating an issue.](https://github.com/adudu21isme/rbxrulebreakers/issues/new?assignees=adudu21isme&labels=Report&projects=&template=user_report.yaml&title=%5BREPORT%5D+)
+Report users by [clicking here.](https://github.com/adudu21isme/rbxrulebreakers/issues/new?assignees=adudu21isme&labels=Report&projects=&template=user_report.yaml&title=%5BREPORT%5D+)
 
-Appeal by [creating an issue.](https://github.com/adudu21isme/rbxrulebreakers/issues/new?assignees=adudu21isme&labels=List+Appeal&projects=&template=appeal.yaml&title=%5BAPPEAL%5D+) (appeals are not always accepted, it depends on the Severity and Context.)
+Appeal by [clicking here.](https://github.com/adudu21isme/rbxrulebreakers/issues/new?assignees=adudu21isme&labels=List+Appeal&projects=&template=appeal.yaml&title=%5BAPPEAL%5D+) (appeals are not always accepted, it depends on the Severity and Context.)
 
 **Users are manually added. Terminated users may be removed from the list.**
 
