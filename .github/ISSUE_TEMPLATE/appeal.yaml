@@ -1,0 +1,40 @@
+name: List Appeal
+description: Request to be removed from the list
+title: "[APPEAL] "
+labels: List Appeal
+assignees: adudu21isme
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        > [!IMPORTANT]
+        **Appeal guidelines**
+        > You are the account owner.
+        > Make sure you are on the [list](https://raw.githubusercontent.com/adudu21isme/rbxrulebreakers/refs/heads/main/users).
+        **YOUR APPEAL IS NOT GUARANTEED TO BE ACCEPTED**
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Acknowledgement of Appeal guidelines
+      options:
+        - label: I have read the appeal guidelines.
+          required: true
+        - label: I have verified that i am on the list.
+          required: true
+  - type: input
+    id: user
+    attributes:
+      label: UserId
+      description: "Go to your roblox account profile via the roblox website and the URL will contain your userid (example:roblox.com/users/1/profile)"
+      placeholder: "1"
+    validations:
+      required: true
+  - type: textarea
+    id: extrainfo
+    attributes:
+      label: Why should you be removed from the list?
+      description: Provide a valid reason on why you should be removed from the list.
+      value: "N/A"
+    validations:
+      required: true
