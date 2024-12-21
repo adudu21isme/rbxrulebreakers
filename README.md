@@ -1,24 +1,15 @@
 # Roblox Exploiters and Terms Of Service Violators List 
 **This is a list of confirmed roblox exploiters and TOS-Breakers (only serious TOS violations are counted).**
 
-A Serious TOS-Breaker is a user which violates rules of roblox that can be considered serious, such as but not limited to;
-1. NSFW/NSFL (Inappropriate actions such as but not limited to adult content and graphic content, unappealable.)
-2. Content Stealing (Intentionally stealing assets of other roblox games, unappealable.)
-3. Maliciously DMCA'ing assets/games (False DMCA. Maliciously is when the user DMCA'ing does not have copyright over the content, unappealable.)
-4. Scamming (unappealable.)
-5. Death threats (unappealable.)
-6. Exploiting (unappealable.)
-7. illegal Activities (Depends on severity)
+# Information
 
-If you want a Serious TOS-Breaker or Exploiter to be added onto the list, [create a issue.](https://github.com/adudu21isme/rbxrulebreakers/issues/new?assignees=adudu21isme&labels=Report&projects=&template=user_report.yaml&title=%5BREPORT%5D+)
+A Serious TOS-Breaker is a user which violates rules of roblox that can be considered serious.
+
+Report users by [creating an issue.](https://github.com/adudu21isme/rbxrulebreakers/issues/new?assignees=adudu21isme&labels=Report&projects=&template=user_report.yaml&title=%5BREPORT%5D+)
+
+Appeal by [creating an issue](https://github.com/adudu21isme/rbxrulebreakers/issues/new?assignees=adudu21isme&labels=List+Appeal&projects=&template=appeal.yaml&title=%5BAPPEAL%5D+)
 
 **Users are manually added. Terminated users may be removed**
-
-**If you don't trust this, don't use it. For users to be added, they must be proven guilty.**
-
-Made to also work with https://github.com/adudu21isme/banwavedeveloperconsolescript
-
-[Click me if you want to ban 6K+ potential exploiters](https://github.com/adudu21isme/groupbanwavedeveloperconsolescript)
 
 # Using in roblox (examples):
 
