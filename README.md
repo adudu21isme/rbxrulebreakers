@@ -13,12 +13,13 @@ Appeal by [creating an issue.](https://github.com/adudu21isme/rbxrulebreakers/is
 
 # Using in roblox
 > These are examples. The game must have HTTP Requests Enabled.
-
 ## Fetch list
+> Outputs the list.
 ```luau
 print(game:GetService("HttpService"):GetAsync("https://raw.githubusercontent.com/adudu21isme/rbxrulebreakers/refs/heads/main/users"))
 ```
-## Prevent players on the list from joining (Note that BanAsync only works in roblox servers):
+## Prevent players in the list from joining
+> BanAsync only works in Roblox Servers.
 ```luau
 --// Services
 local plrs = game:GetService("Players")
