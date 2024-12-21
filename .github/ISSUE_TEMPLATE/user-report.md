@@ -1,5 +1,5 @@
 ---
-name: Report Users
+name: User Report
 about: Report exploiters or Serious TOS Violators
 title: "[USER REPORT] (Replace with reason)"
 labels: Report
