@@ -34,6 +34,6 @@ body:
     attributes:
       label: Why should you be removed from the list?
       description: Provide a valid reason on why you should be removed from the list.
-      value: "N/A"
+      placeholder: " i have changed, i am no longer a very bad person. i am sorry to those who i may have hurt."
     validations:
       required: true
