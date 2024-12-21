@@ -48,13 +48,6 @@ local function FetchList()
    fetching=nil
 end
 
---// Update list cache every hour
-task.spawn(function()
-   while task.wait(3600) do
-      FetchList()
-   end
-end)
-
 --// When new players join
 plrs.PlayerAdded:Connect(function(p)
    local id = p.UserId
@@ -74,6 +67,13 @@ You may request to be removed from the list at adudu21's Roblox-Rule-Breakers.]]
          end
       until s or t==0
       return p:Kick("Exploiting or Violation of Serious Roblox Terms Of Service in other roblox games.")
+   end
+end)
+
+--// Update list cache every hour
+task.spawn(function()
+   while task.wait(3600) do
+      FetchList()
    end
 end)
 ```
