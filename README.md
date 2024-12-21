@@ -10,7 +10,7 @@ A Serious TOS-Breaker is a user which violates rules of roblox that can be consi
 6. Exploiting (unappealable.)
 7. illegal Activities (Depends on severity)
 
-If you want a Serious TOS-Breaker or Exploiter to be added onto the list, [create a issue.](https://github.com/adudu21isme/rbxrulebreakers/issues/new?assignees=adudu21isme&labels=report&projects=&template=user-report.md&title=%5BUSER+REPORT%5D)
+If you want a Serious TOS-Breaker or Exploiter to be added onto the list, [create a issue.](https://github.com/adudu21isme/rbxrulebreakers/issues/new?assignees=adudu21isme&labels=Report&projects=&template=user_report.yaml&title=%5BREPORT%5D+)
 
 **Users are manually added. Terminated users may be removed**
 
