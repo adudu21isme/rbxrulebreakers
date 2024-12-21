@@ -11,7 +11,7 @@ Appeal by [creating an issue.](https://github.com/adudu21isme/rbxrulebreakers/is
 
 **Users are manually added. Terminated users may be removed.**
 
-# Using in roblox (examples):
+# Using in roblox (examples, game must have HTTP requests enabled):
 
 ## To fetch list
 ```luau
