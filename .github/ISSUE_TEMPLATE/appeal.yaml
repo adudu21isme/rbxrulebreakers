@@ -30,7 +30,7 @@ body:
     validations:
       required: true
   - type: textarea
-    id: extrainfo
+    id: appeal
     attributes:
       label: Why should you be removed from the list?
       description: Provide a valid reason on why you should be removed from the list.
