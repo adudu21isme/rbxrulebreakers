@@ -17,7 +17,7 @@ body:
     attributes:
       label: Acknowledgement of Appeal guidelines
       options:
-        - label: I have read the appeal guidelines.
+        - label: I have read the appeal guidelines, and i am the account owner.
           required: true
         - label: I have verified that i am on the list.
           required: true
