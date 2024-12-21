@@ -1,0 +1,46 @@
+name: User Report
+title: "[REPORT] "
+description: Report a user that is Exploiting or has Violated Serious Roblox TOS
+body:
+  - type: markdown
+    attributes:
+      value: |
+        > [!Reporting guidelines]
+        > 1. Clear proof of the user exploiting or Violating Serious TOS.
+        > 2. Press ESC to open the roblox ESC menu, show their username and click their username in the in-game playerlist.
+        > 3. Full screen recording, show that you are not using any executors (open task manager and show every process).
+        > If your report doesn't contain sufficient evidence, it will be closed.
+        > Before reporting, ensure the user isn't already on the [list](https://raw.githubusercontent.com/adudu21isme/rbxrulebreakers/refs/heads/main/users).
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Acknowledgement of Reporting guidelines
+      options:
+        - label: I have read the reporting guidelines, and i have provided sufficient evidence.
+          required: true
+        - label: I have verified the user is not already on the list.
+          required: true
+        - label: I did not answer truthfully to all the above checkboxes.
+  - type: input
+    id: user
+    attributes:
+      label: UserId or username of the reported user
+      description: "UserId is preferred. to get the UserId, find their account on the roblox website and the URL will contain it (ex: roblox.com/users/1/profile)"
+      placeholder: "1"
+    validations:
+      required: true
+  - type: input
+    id: evidence
+    attributes:
+      label: Youtube video with the evidence
+      description: "If your video is long, please mention at what timestamp the evidence is at in Additional information."
+      placeholder: "https://www.youtube.com/watch?v=video"
+    validations:
+      required: true
+  - type: textarea
+    id: extrainfo
+    attributes:
+      label: Additional information
+      description: If you want to provide additional information, provide it here. Otherwise, just leave it empty.
+      value: "N/A"
+      render: text
