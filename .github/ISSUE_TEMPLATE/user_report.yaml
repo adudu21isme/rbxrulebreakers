@@ -1,6 +1,6 @@
 name: User Report
 title: "[REPORT] "
-description: Report exploiters or Serious TOS Violators
+description: Report Exploiters or Serious TOS Violators
 labels: Report
 body:
   - type: markdown
