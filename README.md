@@ -9,15 +9,16 @@ Report users by [creating an issue.](https://github.com/adudu21isme/rbxrulebreak
 
 Appeal by [creating an issue.](https://github.com/adudu21isme/rbxrulebreakers/issues/new?assignees=adudu21isme&labels=List+Appeal&projects=&template=appeal.yaml&title=%5BAPPEAL%5D+) (appeals are not always accepted, it depends on the Severity and Context.)
 
-**Users are manually added. Terminated users may be removed.**
+**Users are manually added. Terminated users may be removed from the list.**
 
-# Using in roblox (examples, game must have HTTP requests enabled):
+# Using in roblox
+> These are examples. The game must have HTTP Requests Enabled.
 
-## To fetch list
+## Fetch list
 ```luau
 print(game:GetService("HttpService"):GetAsync("https://raw.githubusercontent.com/adudu21isme/rbxrulebreakers/refs/heads/main/users"))
 ```
-## To prevent players on the list from joining (Note that BanAsync only works in roblox servers):
+## Prevent players on the list from joining (Note that BanAsync only works in roblox servers):
 ```luau
 --// Services
 local plrs = game:GetService("Players")
