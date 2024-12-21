@@ -1,7 +1,9 @@
 name: User Report
-title: "[REPORT] "
 description: Report Exploiters or Serious TOS Violators
+title: "[REPORT] "
 labels: Report
+assignees: adudu21isme
+
 body:
   - type: markdown
     attributes:
