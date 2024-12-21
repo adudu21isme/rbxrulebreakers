@@ -21,7 +21,7 @@ body:
       options:
         - label: I have read the reporting guidelines, and i have provided sufficient evidence.
           required: true
-        - label: I have verified the user is not already on the list.
+        - label: I have verified the user is not already in the list.
           required: true
         - label: I did not answer truthfully to all the above checkboxes.
   - type: input
