@@ -1,11 +1,13 @@
 name: User Report
 title: "[REPORT] "
-description: Report a user that is Exploiting or has Violated Serious Roblox TOS
+description: Report exploiters or Serious TOS Violators
+labels: Report
 body:
   - type: markdown
     attributes:
       value: |
-        > [!Reporting guidelines]
+        > [!IMPORTANT]
+        Reporting guidelines
         > Clear proof of the user exploiting or Violating Serious TOS.
         > Press ESC to open the roblox ESC menu, show their username and click their username in the in-game playerlist.
         > Full screen recording, show that you are not using any executors (open task manager and show every process).
