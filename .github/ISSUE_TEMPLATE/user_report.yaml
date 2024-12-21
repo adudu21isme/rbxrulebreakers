@@ -27,15 +27,15 @@ body:
   - type: input
     id: user
     attributes:
-      label: UserId or username of the reported user
-      description: "UserId is preferred. to get the UserId, find their account on the roblox website and the URL will contain it (ex: roblox.com/users/1/profile)"
+      label: UserId or Username (reported user)
+      description: "UserId is preferred, find their account via the roblox website and the URL will contain their userid (example:roblox.com/users/1/profile)"
       placeholder: "1"
     validations:
       required: true
   - type: input
     id: evidence
     attributes:
-      label: Youtube video with the evidence
+      label: Youtube video with evidence
       description: "If your video is long, please mention at what timestamp the evidence is at in Additional information."
       placeholder: "https://www.youtube.com/watch?v=video"
     validations:
@@ -46,4 +46,3 @@ body:
       label: Additional information
       description: If you want to provide additional information, provide it here. Otherwise, just leave it empty.
       value: "N/A"
-      render: text
