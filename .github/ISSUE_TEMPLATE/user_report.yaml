@@ -12,16 +12,16 @@ body:
         **Reporting guidelines**
         > Clear proof of the user exploiting or Violating Serious TOS.
         > Press ESC to open the roblox ESC menu, show their username and click their username in the in-game playerlist.
-        > 30+ Seconds Full Screen Recording, show that you are not using any executors (open task manager and show every process).
+        > 30+ Seconds Full Screen Recording (recommended), show that you are not using any executors (open task manager and show every process).
         **Additional information**
-        > If your report doesn't contain sufficient evidence, it will be closed.
+        > If your report doesn't contain sufficient evidence, it will be closed/denied.
         > Before reporting, ensure the user isn't already on the [list](https://raw.githubusercontent.com/adudu21isme/rbxrulebreakers/refs/heads/main/users).
   - type: checkboxes
     id: terms
     attributes:
       label: Acknowledgement of Reporting guidelines
       options:
-        - label: I have read the reporting guidelines, and i have provided sufficient evidence.
+        - label: I have followed the reporting guidelines.
           required: true
         - label: I have verified the user is not already in the list.
           required: true
