@@ -9,7 +9,7 @@ Report users by [clicking here.](https://github.com/adudu21isme/rbxrulebreakers/
 
 Appeal by [clicking here.](https://github.com/adudu21isme/rbxrulebreakers/issues/new?assignees=adudu21isme&labels=List+Appeal&projects=&template=appeal.yaml&title=%5BAPPEAL%5D+) (depending on Severity and Context, your appeal may be denied.)
 
-**Users are manually added. Terminated users may be removed from the list.**
+**Users are manually added. Terminated users may be removed from the list. If a user was terminated but has gotton their account, you can submit a report.**
 
 # Using in roblox
 > These are examples. The game must have HTTP Requests Enabled.
