@@ -102,6 +102,7 @@ https://www.roblox.com/games/93094304529125/Gift-Tycoon
 https://www.roblox.com/games/84949966061623/5-robux-5-noob
 
 ## Why was zenuux added?
+**⚠️ i am reconsidering readding him onto the list for his malicious toxic behavior but if you dont want a person with a ego from what i see, you can manually ban them from your game.**
 ### Original: Message To Zenuux
 This is to let you know why you originally added onto the "list" of rule breakers but have been removed since then.
 
