@@ -14,7 +14,7 @@ Appeal by [clicking here.](https://github.com/adudu21isme/rbxrulebreakers/issues
 # General rules
 > This is to let you know what would count as a violation (not all is listed)
 
-1. Endangerment of users that are not of age.
+1. Endangerment of users that are not an adult.
 2. Exploiting (using third-party software to tamper with Roblox)
 3. Toxicity (Bullying, Harassment, Threats)
 4. Harmful misinformation
