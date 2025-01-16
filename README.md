@@ -1,7 +1,7 @@
 # Roblox Exploiters and Terms Of Service (Rules) Violators List 
 **This is a list of confirmed roblox exploiters and TOS-Breakers (only serious TOS violations are considered).**
 
-**⚠️ Users which add false reasons onto a Roblox Game Ban will no longer be considered a violation or serious unless it is harming the person (this was modified because of [Zennux](https://www.roblox.com/users/425328729/profile) not being very nice to people and adding false reasons onto a ban).**
+**⚠️ Users which add false reasons onto a Roblox Game Ban will no longer be considered a violation or serious unless it is harming the person (this was modified because of [Zennux](https://www.roblox.com/users/425328729/profile)).**
 
 # Information
 
@@ -92,3 +92,19 @@ https://www.roblox.com/games/117151318136398/UGC-Tycoon
 https://www.roblox.com/games/93094304529125/Gift-Tycoon
 
 https://www.roblox.com/games/84949966061623/5-robux-5-noob
+
+## Why was zennux added?
+### Original: Message To Zennux
+This is to let you know why you originally added onto the "list" of rule breakers but have been removed since then.
+
+For reference, you are no longer on the list.
+
+The reason why you originally were added is because some of the ban reasons within the ban of Vescorps (duran_savgealt) when asked for proof, was not given even tho lots of people asked, such as stealing other assets (when people asked, you kept saying "none of your business" (i believe these allegations could be considered serious in terms of game development).
+
+That caused reasonable suspious of "Adding false reasons onto a ban" offense however this offense has been completely removed and replaced with "Adding false reasons onto a Roblox Game Ban will no longer be considered a violation or serious unless it is harming the person."
+
+These are from my Point Of View, if i am incorrect you may let me know (or not).
+
+I don't play PLS Donate often so this is just a message to let you know the next time you play.
+
+@adudu21 1/15/2025
