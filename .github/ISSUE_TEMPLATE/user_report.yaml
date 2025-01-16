@@ -16,6 +16,7 @@ body:
         **Additional information**
         > If your report doesn't contain sufficient evidence, it will be closed/denied.
         > Before reporting, ensure the user isn't already on the [list](https://raw.githubusercontent.com/adudu21isme/rbxrulebreakers/refs/heads/main/users).
+        > Reports will be read if they've been been appealed on github or have been sent to adudu21 on other platforms.
   - type: checkboxes
     id: terms
     attributes:
