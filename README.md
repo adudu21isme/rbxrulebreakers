@@ -9,7 +9,7 @@ Report users by [clicking here.](https://github.com/adudu21isme/rbxrulebreakers/
 
 Appeal by [clicking here.](https://github.com/adudu21isme/rbxrulebreakers/issues/new?assignees=adudu21isme&labels=List+Appeal&projects=&template=appeal.yaml&title=%5BAPPEAL%5D+) (depending on Severity and Context, your appeal may be denied.)
 
-**Users are manually added. Terminated users may be removed from the list. If a user was terminated but has been unterminated and was on the list, you can submit a report.**
+**Users are manually added. Terminated users may be removed from the list. If a user was terminated but has been unterminated and was on the list or deserves to be readded, you can submit a report.**
 
 # General rules
 > This is to let you know what would count as a violation (not all is listed)
