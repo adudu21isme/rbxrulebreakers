@@ -1,6 +1,8 @@
 # Roblox Exploiters and Terms Of Service Violators List 
 **This is a list of confirmed roblox exploiters and TOS-Breakers (only serious TOS violations are counted).**
 
+**⚠️ Users which add false reasons onto a ban will no longer be considered a violation or serious.**
+
 # Information
 
 A Serious TOS-Breaker is a user which violates rules of roblox that can be considered serious.
