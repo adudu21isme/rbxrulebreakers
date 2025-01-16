@@ -1,7 +1,7 @@
 # Roblox Exploiters and Terms Of Service Violators List 
 **This is a list of confirmed roblox exploiters and TOS-Breakers (only serious TOS violations are counted).**
 
-**⚠️ Users which add false reasons onto a Roblox Game Ban will no longer be considered a violation or serious unless it is harming the person.**
+**⚠️ Users which add false reasons onto a Roblox Game Ban will no longer be considered a violation or serious unless it is harming the person (this was modified because of Zennux not being very nice to people and adding false reasons onto a ban).**
 
 # Information
 
