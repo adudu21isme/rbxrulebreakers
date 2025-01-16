@@ -12,12 +12,13 @@ body:
         **Appeal guidelines**
         > You are the account owner.
         > You are on the [list](https://raw.githubusercontent.com/adudu21isme/rbxrulebreakers/refs/heads/main/users).
+        > Appeals will be read if they've been been appealed on github or have been sent to adudu21 on other platforms.
   - type: checkboxes
     id: terms
     attributes:
       label: Acknowledgement of Appeal guidelines
       options:
-        - label: I have verified that i am on the list and i am the account owner.
+        - label: I have verified that i am on the list and i am the rightful account owner.
           required: true
   - type: input
     id: user
