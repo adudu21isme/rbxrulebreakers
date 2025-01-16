@@ -1,8 +1,6 @@
 # Roblox Exploiters and Terms Of Service (Rules) Violators List 
 **This is a list of confirmed roblox exploiters and TOS-Breakers (only serious TOS violations are considered).**
 
-**⚠️ Users which add false reasons onto a Roblox Game Ban will no longer be considered a violation or serious unless it is harming the person (this was modified because of [Zennux](https://www.roblox.com/users/425328729/profile)).**
-
 # Information
 
 A Serious TOS-Breaker is a user which violates rules of roblox that can be considered serious.
@@ -12,6 +10,16 @@ Report users by [clicking here.](https://github.com/adudu21isme/rbxrulebreakers/
 Appeal by [clicking here.](https://github.com/adudu21isme/rbxrulebreakers/issues/new?assignees=adudu21isme&labels=List+Appeal&projects=&template=appeal.yaml&title=%5BAPPEAL%5D+) (depending on Severity and Context, your appeal may be denied.)
 
 **Users are manually added. Terminated users may be removed from the list. If a user was terminated but has been unterminated and was on the list, you can submit a report.**
+
+# General rules
+> This is to let you know what would count as a violation (not all is listed)
+
+1. Endangerment of users that are not of age.
+2. Exploiting (using third-party software to tamper with Roblox)
+3. Toxicity (Bullying, Harassment, Threats)
+4. Harmful misinformation
+5. Scamming
+8. False reasons onto a game ban that can negatively impact the person (4)
 
 # Using in roblox
 > These are examples. The game must have HTTP Requests Enabled.
