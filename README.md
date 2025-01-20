@@ -114,6 +114,6 @@ That caused reasonable suspious of "Adding false reasons onto a ban" offense how
 
 These are from my Point Of View, if i am incorrect you may let me know (or not).
 
-I don't play PLS Donate often so this is just a message to let you know the next time you play.
+I don't play PLS Donate often so this is just a message to let you know.
 
 @adudu21 1/15/2025
