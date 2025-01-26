@@ -8,23 +8,25 @@ body:
   - type: markdown
     attributes:
       value: |
-        > [!IMPORTANT]
+        > [!CAUTION]
         **Appeal guidelines**
         > You are the account owner.
-        > You are on the [list](https://raw.githubusercontent.com/adudu21isme/rbxrulebreakers/refs/heads/main/users).
-        > Appeals will be read if they've been been appealed on github or have been sent to adudu21 on other platforms.
+        > You have confirmed you are on the [list](https://raw.githubusercontent.com/adudu21isme/rbxrulebreakers/refs/heads/main/users).
+        > Appeals are read if sent on Github or proper ways to contact adudu21.
   - type: checkboxes
     id: terms
     attributes:
       label: Acknowledgement of Appeal guidelines
       options:
-        - label: I have verified that i am on the list and i am the rightful account owner.
+        - label: I verified that i am on the list
+          required: true
+        - label: I am the rightful account owner.
           required: true
   - type: input
     id: user
     attributes:
       label: UserId
-      description: "Go to your roblox account profile via the roblox website and the URL will contain your userid (example:roblox.com/users/1/profile)"
+      description: "Go to your roblox account profile via the roblox website, the URL will contain your UserId (example:roblox.com/users/1/profile)"
       placeholder: "1"
     validations:
       required: true
@@ -32,7 +34,7 @@ body:
     id: appeal
     attributes:
       label: Why should you be removed from the list?
-      description: Provide a valid reason on why you should be removed from the list.
+      description: "Provide a valid reason why you should be removed from the list, excuses such as my brother went on account, keyboard ran over the keyboard or such will result in a denied appeal"
       placeholder: " i have changed, i am no longer a very bad person. i am sorry to those who i may have hurt."
     validations:
       required: true
