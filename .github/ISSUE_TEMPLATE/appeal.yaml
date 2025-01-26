@@ -34,7 +34,7 @@ body:
     id: appeal
     attributes:
       label: Why should you be removed from the list?
-      description: "Provide a valid reason why you should be removed from the list, excuses such as my brother went on my account, keyboard ran over the keyboard or such will result in a denied appeal"
+      description: "Provide a valid reason why you should be removed from the list, excuses such as my brother went on my account, cat ran over the keyboard or such will result in a denied appeal"
       placeholder: " i have changed, i am no longer a very bad person. i am sorry to those who i may have hurt."
     validations:
       required: true
