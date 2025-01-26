@@ -1,6 +1,6 @@
 name: User Report
-description: Report Exploiters or Serious TOS Violators
-title: "[REPORT] "
+description: Report rule breakers
+title: "[UserReport] "
 labels: Report
 assignees: adudu21isme
 
@@ -9,20 +9,20 @@ body:
     attributes:
       value: |
         > [!IMPORTANT]
-        **Reporting guidelines (to make it easier to review)**
-        > Clear proof of the user exploiting or Violating Serious TOS.
-        > Press ESC to open the roblox ESC menu, show their username and click their username in the in-game playerlist.
-        > 20+ Seconds Full Screen Recording (recommended), show that you are not using any executors (open task manager and show every process, if you are trusted by adudu21, you don't have to do this.).
+        **Reporting guidelines (so its easier to review)**
+        > Clear proof of the user violating the rules (read README.md for information).
+        > Open the roblox menu (ESC menu), show their username and click their username aswell in the ingame playerlist.
+        > 20+ Seconds Full Screen Recording (recommended), show that you are not using any executors (open task manager, if you are trusted by adudu21, you don't have to do this).
         **Additional information**
-        > If your report doesn't contain sufficient evidence, it will be closed/denied.
+        > If your report doesn't contain sufficient information, it will be denied.
         > Before reporting, ensure the user isn't already on the [list](https://raw.githubusercontent.com/adudu21isme/rbxrulebreakers/refs/heads/main/users).
-        > Reports will be read if they've been been appealed on github or have been sent to adudu21 on other platforms.
+        > Reports are read if reported on GitHub or proper ways to contact adudu21.
   - type: checkboxes
     id: terms
     attributes:
       label: Acknowledgement of Reporting guidelines
       options:
-        - label: I have followed the reporting guidelines.
+        - label: I have acknowledged the reporting guidelines.
           required: true
         - label: I have verified the user is not already in the list.
           required: true
@@ -31,15 +31,15 @@ body:
     attributes:
       label: UserId or Username (reported user)
       description: "UserId is preferred, find their account via the roblox website and the URL will contain their userid (example:roblox.com/users/1/profile)"
-      placeholder: "1"
+      placeholder: "1/Roblox"
     validations:
       required: true
   - type: input
     id: evidence
     attributes:
-      label: Video Evidence (Youtube, Streamable or Discord)
-      description: "If your video is long, please mention at what timestamp the evidence is at in Additional information."
-      placeholder: "https://www.youtube.com/watch?v=video"
+      label: Video Evidence (Youtube, Streamable, Discord)
+      description: "If video is long, mention at what timestamp the evidence is at via Additional information."
+      placeholder: "https://www.youtube.com/watch?v=kOyEVP7B-jc"
     validations:
       required: true
   - type: textarea
