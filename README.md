@@ -1,26 +1,23 @@
 # Roblox Exploiters and Terms of Service/Community Standards Violators List 
 
-# Information
-
-A Serious ToS-Breaker is a user which violates the rules of roblox that can be considered serious.
-
+# Reports and Appeals
 Report users by [clicking here.](https://github.com/adudu21isme/rbxrulebreakers/issues/new?assignees=adudu21isme&labels=Report&projects=&template=user_report.yaml&title=%5BREPORT%5D+)
 
 Appeal by [clicking here.](https://github.com/adudu21isme/rbxrulebreakers/issues/new?assignees=adudu21isme&labels=List+Appeal&projects=&template=appeal.yaml&title=%5BAPPEAL%5D+) (depending on Severity and Context, your appeal may be denied.)
 
-**Terminated users may be removed from the list. If a user was terminated but has been unterminated and was on the list, you can submit a report.**
+**Terminated users may be removed from the list. If a user was terminated but has been unterminated and was on the list, you can request for them to be readded.**
 
-# General rules
+# General information
 > This is to let you know what would count as a violation (not all is listed)
 
 1. Endangerment of users that are not an adult.
 2. Exploiting (using third-party software to tamper with Roblox)
-3. Toxicity (Bullying, Harassment, Threats)
+3. Excessive Toxicity (Bullying, Harassment, Threats)
 4. Harmful misinformation
 5. Scamming
 8. False reasons onto a game ban that can negatively impact the person (4)
 
-# Using in roblox
+# Usage
 > These are examples. The game must have HTTP Requests Enabled.
 ## Fetch list
 > Outputs the list.
@@ -28,7 +25,7 @@ Appeal by [clicking here.](https://github.com/adudu21isme/rbxrulebreakers/issues
 print(game:GetService("HttpService"):GetAsync("https://raw.githubusercontent.com/adudu21isme/rbxrulebreakers/refs/heads/main/users"))
 ```
 ## Prevent players in the list from joining
-> BanAsync only works in Roblox Servers.
+> BanAsync only works in Roblox Servers and if it is enabled (via Players).
 ```luau
 --// Services
 local plrs = game:GetService("Players")
@@ -97,6 +94,7 @@ task.spawn(function()
    end
 end)
 ```
+# 💰💰💰 If you find this useful, you can Donate me Robux https://www.roblox.com/catalog?CreatorName=adudu21 (buy a T-Shirt or such, if you want to donate multiple times, go to the t-shirt you wish to purchase again, click the three dots next to the name of it and click "Delete from Inventory" then refresh page.
 
 # Games that use this list:
 > If you want your game added here, please message [adudu21](https://github.com/adudu21isme) via Discord for fastest response.
