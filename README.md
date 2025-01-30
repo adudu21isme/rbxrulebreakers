@@ -1,9 +1,9 @@
 # Roblox Exploiters and Terms of Service/Community Standards Violators List 
 
 # Reports and Appeals
-Report users by [clicking here.](https://github.com/adudu21isme/rbxrulebreakers/issues/new?assignees=adudu21isme&labels=Report&projects=&template=user_report.yaml&title=%5BREPORT%5D+)
+Report users by [clicking here.](https://github.com/adudu21isme/rbxrulebreakers/issues/new?template=user_report.yaml)
 
-Appeal by [clicking here.](https://github.com/adudu21isme/rbxrulebreakers/issues/new?assignees=adudu21isme&labels=List+Appeal&projects=&template=appeal.yaml&title=%5BAPPEAL%5D+) (depending on Severity and Context, your appeal may be denied.)
+Appeal by [clicking here.](https://github.com/adudu21isme/rbxrulebreakers/issues/new?template=appeal.yaml) (depending on Severity and Context, your appeal may be denied.)
 
 **Terminated users may be removed from the list. If a user was terminated but has been unterminated and was on the list, you can request for them to be readded.**
 
