@@ -1,4 +1,5 @@
 # Roblox Exploiters and Terms of Service/Community Standards Violators List 
+> A list of users which violates the rules of roblox so you can prevent them from joining your Roblox Game
 
 # Reports and Appeals
 Report users by [clicking here.](https://github.com/adudu21isme/rbxrulebreakers/issues/new?template=user_report.yaml)
@@ -94,10 +95,11 @@ task.spawn(function()
    end
 end)
 ```
-# 💰💰💰 If you find this useful, you can Donate me Robux https://www.roblox.com/catalog?CreatorName=adudu21 (buy a T-Shirt or such, if you want to donate multiple times, go to the t-shirt you wish to purchase again, click the three dots next to the name of it and click "Delete from Inventory" then refresh page.
 
 # Games that use this list:
 > If you want your game added here, please message [adudu21](https://github.com/adudu21isme) via Discord for fastest response.
+
+**💰💰💰 If you find this useful, you can Donate me Robux https://www.roblox.com/catalog?CreatorName=adudu21 (buy a T-Shirt or such, if you want to donate multiple times, go to the t-shirt you wish to purchase again, click the three dots next to the name of it and click "Delete from Inventory" then refresh page.)**
 
 https://www.roblox.com/games/17276569867/Push-a-Friend-2-Player-Obby
 
@@ -108,3 +110,5 @@ https://www.roblox.com/games/117151318136398/UGC-Tycoon
 https://www.roblox.com/games/93094304529125/Gift-Tycoon
 
 https://www.roblox.com/games/84949966061623/5-robux-5-noob
+
+# Github Compliance: This repository is created for informational, educational, and safety purposes only. This repository is not intended to target, harass or bully any individual mentioned. We strongly condemn harassment, bullying, raiding and any form of online misconduct. Users are reminded to engage respectfully and responsibly.
