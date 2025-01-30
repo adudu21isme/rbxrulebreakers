@@ -99,8 +99,6 @@ end)
 # Games that use this list:
 > If you want your game added here, please message [adudu21](https://github.com/adudu21isme) via Discord for fastest response.
 
-**💰💰💰 If you find this useful, you can Donate me Robux https://www.roblox.com/catalog?CreatorName=adudu21 (buy a T-Shirt or such, if you want to donate multiple times, go to the t-shirt you wish to purchase again, click the three dots next to the name of it and click "Delete from Inventory" then refresh page.)**
-
 https://www.roblox.com/games/17276569867/Push-a-Friend-2-Player-Obby
 
 https://www.roblox.com/games/15605594861/Silly-Donations
