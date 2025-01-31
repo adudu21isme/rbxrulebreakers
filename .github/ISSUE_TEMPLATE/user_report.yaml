@@ -29,7 +29,7 @@ body:
   - type: input
     id: user
     attributes:
-      label: UserId or Username (reported user)
+      label: UserId or Username
       description: "UserId is preferred, find their account via the roblox website and the URL will contain their userid (example:roblox.com/users/1/profile)"
       placeholder: "1/Roblox"
     validations:
