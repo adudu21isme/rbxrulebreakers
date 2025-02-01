@@ -67,30 +67,12 @@ plrs.PlayerAdded:Connect(function(p)
    --// Is User on list? Put this somewhere that its ok if the code yields
    if not list then FetchList()end
    if list and table.find(list,tostring(id)) then
-      --// Use BanAsync on the exploiter (offender)
-      local s,r,t = nil,nil,2
-      repeat
-         s,r = pcall(function()
-            return plrs:BanAsync({UserIds={id},Duration=-1,DisplayReason=[[Violations of Roblox ToS ("Terms of Service")/Community Standards or causing false bans to users in popular games that harm the victim.
-
-Banning adudu21 from your game will not remove you from the list and will not improve your ego.
-
-You can appeal at adudu21isme/rbxrulebreakers on GitHub, if appeal is accepted. contact the admins of this game to be unbanned.
-
-PERMANENT BAN]],PrivateReason=`@{p.Name} has violated the Roblox ToS ("Terms of Service")/Community Standards or such. More information at https://github.com/adudu21isme/rbxrulebreakers`,ExcludeAltAccounts=false,ApplyToUniverse=true})  
-         end)
-         if not s then
-            t-=1 
-            task.wait(0.5)
-         end
-      until s or t==0
+      --// Kick the rule breaker from the game
       return p:Kick([[Violations of Roblox ToS ("Terms of Service")/Community Standards or causing false bans to users in popular games that harm the victim.
 
 Banning adudu21 from your game will not remove you from the list and will not improve your ego.
 
-You can appeal at adudu21isme/rbxrulebreakers on GitHub, if appeal is accepted. contact the admins of this game to be able to play.
-
-KICKED]])
+You can appeal at adudu21isme/rbxrulebreakers on GitHub, if appeal is accepted. you will be allowed to play again within 24 hours.]])
    end
 end)
 
