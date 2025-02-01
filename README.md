@@ -6,7 +6,7 @@ Report users by [clicking here](https://github.com/adudu21isme/rbxrulebreakers/i
 
 Appeal by [clicking here](https://github.com/adudu21isme/rbxrulebreakers/issues/new?template=appeal.yaml) or the [discord server](https://discord.gg/U7JstgHdyg) (depending on Severity and Context, your appeal may be denied.)
 
-**Users are ONLY added if there is PROOF of them breaking the rules.**
+**Users are ONLY added if they actually broke the rules.**
 
 **Terminated users may be removed from the list. If a user was terminated but has been unterminated and was on the list, you can request for them to be readded.**
 
