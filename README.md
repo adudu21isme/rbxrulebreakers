@@ -6,9 +6,15 @@ Report users by [clicking here](https://github.com/adudu21isme/rbxrulebreakers/i
 
 Appeal by [clicking here](https://github.com/adudu21isme/rbxrulebreakers/issues/new?template=appeal.yaml) or the [discord server](https://discord.gg/U7JstgHdyg) (depending on Severity and Context, your appeal may be denied.)
 
+**Users are ONLY added if there is PROOF of them breaking the rules.**
+
 **Terminated users may be removed from the list. If a user was terminated but has been unterminated and was on the list, you can request for them to be readded.**
 
 # General information
+This is a list with UserId(s), Roblox UserId(s) are PUBLIC INFORMATION.
+
+This list is made for Roblox Games to use it.
+
 > This is to let you know what would count as a violation (not all is listed)
 
 1. Endangerment of users that are not an adult.
@@ -109,4 +115,4 @@ https://www.roblox.com/games/93094304529125/Gift-Tycoon
 
 https://www.roblox.com/games/84949966061623/5-robux-5-noob
 
-# Github Compliance: This repository is created for informational, educational, and safety purposes only. This repository is not intended to target, harass or bully any individual mentioned. We strongly condemn harassment, bullying, raiding and any form of online misconduct. Users are reminded to engage respectfully and responsibly.
+# This repository is created for informational, educational, moderation, and safety purposes only. This repository is not intended to target, harass or bully any individual mentioned. We strongly condemn harassment, bullying, raiding and any form of online misconduct. Users are reminded to engage respectfully and responsibly.
