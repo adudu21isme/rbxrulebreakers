@@ -8,7 +8,7 @@ Appeal by [clicking here](https://github.com/adudu21isme/rbxrulebreakers/issues/
 
 **Users are ONLY added if they actually broke the rules.**
 
-**Terminated users may be removed from the list. If a user was terminated but has been unterminated and was on the list, you can request for them to be readded.**
+**Terminated users are likely to be removed from the list. If a user was terminated but has been unterminated and was on the list, you can request for them to be readded.**
 
 # General information
 This is a list with UserId(s), Roblox UserId(s) are PUBLIC INFORMATION.
