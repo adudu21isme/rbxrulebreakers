@@ -2,9 +2,9 @@
 > A list of users which violates the rules of roblox so you can prevent them from joining your Roblox Game
 
 # Reports and Appeals
-Report users by [clicking here.](https://github.com/adudu21isme/rbxrulebreakers/issues/new?template=user_report.yaml)
+Report users by [clicking here](https://github.com/adudu21isme/rbxrulebreakers/issues/new?template=user_report.yaml) or via [joining this discord server](https://discord.gg/U7JstgHdyg)
 
-Appeal by [clicking here.](https://github.com/adudu21isme/rbxrulebreakers/issues/new?template=appeal.yaml) (depending on Severity and Context, your appeal may be denied.)
+Appeal by [clicking here](https://github.com/adudu21isme/rbxrulebreakers/issues/new?template=appeal.yaml) or via [joining this discord server](https://discord.gg/U7JstgHdyg) (depending on Severity and Context, your appeal may be denied.)
 
 **Terminated users may be removed from the list. If a user was terminated but has been unterminated and was on the list, you can request for them to be readded.**
 
