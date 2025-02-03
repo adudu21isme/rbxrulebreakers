@@ -13,6 +13,7 @@ body:
         > You are the account owner.
         > You have confirmed you are on the [list](https://raw.githubusercontent.com/adudu21isme/rbxrulebreakers/refs/heads/main/users).
         > Appeals are read if sent on Github or proper ways to contact adudu21.
+                > It is recommended that you use [![Discord](https://img.shields.io/badge/Discord-black.svg?logo=Discord&logoColor=white)](https://discord.gg/U7JstgHdyg) to appeal instead
   - type: checkboxes
     id: terms
     attributes:
