@@ -4,7 +4,7 @@
 # Reports and Appeals
 Report users by [clicking here](https://github.com/adudu21isme/rbxrulebreakers/issues/new?template=user_report.yaml) or the [discord server](https://discord.gg/U7JstgHdyg)
 
-Appeal by [clicking here](https://github.com/adudu21isme/rbxrulebreakers/issues/new?template=appeal.yaml) or the [discord server](https://discord.gg/U7JstgHdyg) (depending on Severity and Context, your appeal may be denied.)
+List Appeal by [clicking here](https://github.com/adudu21isme/rbxrulebreakers/issues/new?template=appeal.yaml) or the [discord server](https://discord.gg/U7JstgHdyg) (depending on Severity and Context, your appeal may be denied.)
 
 **Users are ONLY added if they actually broke the rules.**
 
