@@ -4,9 +4,8 @@
 # Reports and Appeals
 **Before requesting for a user to be added onto the list, it's suggested that you use Roblox's Reporting Features, if you're in the EU, you can visit https://www.roblox.com/illegal-content-reporting and afterwards report the user to roblox there (EU Reports have a higher chance to be accepted than regular roblox reports).**
 
-Report users by [clicking here](https://github.com/adudu21isme/rbxrulebreakers/issues/new?template=user_report.yaml) or the [discord server](https://discord.gg/U7JstgHdyg)
-
-List Appeal by [clicking here](https://github.com/adudu21isme/rbxrulebreakers/issues/new?template=appeal.yaml) or the [discord server](https://discord.gg/U7JstgHdyg) (depending on Severity and Context, your appeal may be denied.)
+Reports and List Appeals have been moved into 
+[![Discord](https://img.shields.io/badge/Discord-black.svg?logo=Discord&logoColor=white)](https://discord.gg/U7JstgHdyg)
 
 **Users are ONLY added if they actually broke the rules. Reports and appeals are carefully read if it's a legitimate report/appeal.**
 
