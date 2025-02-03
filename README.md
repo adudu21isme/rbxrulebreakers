@@ -1,12 +1,14 @@
 # Roblox Exploiters and Terms of Service/Community Standards Violators List 
-> A list of users which violates the rules of roblox so you can prevent them from joining your Roblox Game
+> A list of users which violates the rules of roblox (that can be considered serious violations) so you can prevent them from joining your Roblox Game
 
 # Reports and Appeals
+**Before requesting for a user to be added onto the list, it's suggested that you use Roblox's Reporting Features, if you're in the EU, you can visit https://www.roblox.com/illegal-content-reporting and afterwards report the user to roblox there (EU Reports have a higher chance to be accepted than regular roblox reports).**
+
 Report users by [clicking here](https://github.com/adudu21isme/rbxrulebreakers/issues/new?template=user_report.yaml) or the [discord server](https://discord.gg/U7JstgHdyg)
 
 List Appeal by [clicking here](https://github.com/adudu21isme/rbxrulebreakers/issues/new?template=appeal.yaml) or the [discord server](https://discord.gg/U7JstgHdyg) (depending on Severity and Context, your appeal may be denied.)
 
-**Users are ONLY added if they actually broke the rules.**
+**Users are ONLY added if they actually broke the rules. Reports and appeals are carefully read if it's a legitimate report/appeal.**
 
 **Terminated users are likely to be removed from the list. If a user was terminated but has been unterminated and was on the list, you can request for them to be readded.**
 
@@ -17,12 +19,12 @@ This list is made for Roblox Games to use it.
 
 > This is to let you know what would count as a violation (not all is listed)
 
-1. Endangerment of users that are not an adult.
+1. Child endangerment
 2. Exploiting (using third-party software to tamper with Roblox)
 3. Excessive Toxicity (Bullying, Harassment, Threats)
 4. Harmful misinformation
 5. Scamming
-8. False reasons onto a game ban that can negatively impact the person (4)
+8. False reasons onto a game ban that can negatively impact the person (4, several other violations are required for this to be added as one)
 
 # Usage
 > These are examples. The game must have HTTP Requests Enabled.
@@ -32,7 +34,6 @@ This list is made for Roblox Games to use it.
 print(game:GetService("HttpService"):GetAsync("https://raw.githubusercontent.com/adudu21isme/rbxrulebreakers/refs/heads/main/users"))
 ```
 ## Prevent players in the list from joining
-> BanAsync only works in Roblox Servers and if it is enabled (via Players).
 ```luau
 --// Services
 local plrs = game:GetService("Players")
