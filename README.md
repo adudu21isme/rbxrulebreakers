@@ -24,7 +24,7 @@ This list is made for Roblox Games to use it.
 5. Scamming
 8. False reasons onto a game ban that can negatively impact the person (4, several other violations are required for this to be added as one)
 
-Every once in awhile or so, the status's of the users in the list will be checked (including Bio ("About me") for hamrful content), additionally, their friends Bios ("About me") may aswell be checked for harmful content too. To the providers of the services that are used to check, a header named "X-FriendChecker" alongside "X-Checker" is provided.
+Every once in awhile or so, the status's of the users in the list will be checked (including Bio ("About me") for harmful content), additionally, their friends Bios ("About me") may aswell be checked for harmful content. To the providers of the services that are used to check, a header named "X-FriendChecker" alongside "X-Checker" is provided.
 
 # Usage
 > These are examples. The game must have HTTP Requests Enabled.
