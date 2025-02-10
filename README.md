@@ -69,7 +69,8 @@ plrs.PlayerAdded:Connect(function(p)
    local id = p.UserId
    --// Is User on list? Put this somewhere that its ok if the code yields
    if not list then FetchList()end
-   if list and table.find(list,tostring(id)) then
+   local OnList = list and table.find(list,tostring(id))
+   if OnList then
       --// Kick the rule breaker from the game
       return p:Kick([[Violations of Roblox ToS ("Terms of Service")/Community Standards or causing false bans to users in popular games that harm the victim.
 
