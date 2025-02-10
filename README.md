@@ -77,7 +77,7 @@ You can appeal at adudu21isme/rbxrulebreakers on GitHub, if appeal is accepted. 
    end
 end)
 
---// Update list cache every hour
+--// Update list cache every day (24 hours, 86400 seconds total)
 task.spawn(function()
    while task.wait(86400) do
       FetchList()
