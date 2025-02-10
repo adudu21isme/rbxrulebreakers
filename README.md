@@ -73,13 +73,13 @@ plrs.PlayerAdded:Connect(function(p)
 
 Banning adudu21 from your game will not remove you from the list and will not improve your ego.
 
-You can appeal at adudu21isme/rbxrulebreakers on GitHub, if appeal is accepted. you will be allowed to play again in approximately 1 hour.]])
+You can appeal at adudu21isme/rbxrulebreakers on GitHub, if appeal is accepted. you will be allowed to play again in approximately 24 hours.]])
    end
 end)
 
 --// Update list cache every hour
 task.spawn(function()
-   while task.wait(3600) do
+   while task.wait(86400) do
       FetchList()
    end
 end)
