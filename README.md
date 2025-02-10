@@ -98,4 +98,6 @@ https://www.roblox.com/games/93094304529125/Gift-Tycoon
 
 https://www.roblox.com/games/84949966061623/5-robux-5-noob
 
+Also works with https://github.com/adudu21isme/banwavedeveloperconsolescript
+
 # This repository is created for informational, educational, moderation, and safety purposes only. This repository is not intended to target, harass or bully any individual mentioned. We strongly condemn harassment, bullying, raiding and any form of online misconduct. Users are reminded to engage respectfully and responsibly.
