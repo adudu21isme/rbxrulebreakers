@@ -26,6 +26,8 @@ This list is made for Roblox Games to use it.
 
 Every once in awhile or so, the status's of the users in the list will be checked (including Bio ("About me") for harmful content), additionally, their friends Bios ("About me") may aswell be checked for harmful content. To the providers of the services that are used to check, a header named "X-FriendChecker" alongside "X-Checker" is provided.
 
+Also works with https://github.com/adudu21isme/banwavedeveloperconsolescript
+
 # Usage
 > These are examples. The game must have HTTP Requests Enabled.
 ## Fetch list
@@ -97,7 +99,5 @@ https://www.roblox.com/games/117151318136398/UGC-Tycoon
 https://www.roblox.com/games/93094304529125/Gift-Tycoon
 
 https://www.roblox.com/games/84949966061623/5-robux-5-noob
-
-Also works with https://github.com/adudu21isme/banwavedeveloperconsolescript
 
 # This repository is created for informational, educational, moderation, and safety purposes only. This repository is not intended to target, harass or bully any individual mentioned. We strongly condemn harassment, bullying, raiding and any form of online misconduct. Users are reminded to engage respectfully and responsibly.
