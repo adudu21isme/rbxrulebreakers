@@ -36,7 +36,7 @@ Also works with https://github.com/adudu21isme/banwavedeveloperconsolescript
 print(game:GetService("HttpService"):GetAsync("https://raw.githubusercontent.com/adudu21isme/rbxrulebreakers/refs/heads/main/users"))
 ```
 ## Prevent players in the list from joining
-> It's recommended to use Parallel Luau to create the list and check if a user is in it, [parallel luau example](https://github.com/user-attachments/files/18776796/rbxrulebreakers.txt) (change the file extension to rbxm as github doesn't officially support rbxm format).
+> It's recommended to use Parallel Luau to create the list and check if a user is in it, [parallel luau example](https://github.com/user-attachments/files/18777054/rbxrulebreakers.txt) (change the file extension to rbxm as github doesn't officially support rbxm format).
 
 ```luau
 --// Services
@@ -89,7 +89,7 @@ plrs.PlayerAdded:Connect(function(p)
 
 Banning adudu21 from your game will not remove you from the list and will not improve your ego.
 
-You can appeal by going to adudu21isme/rbxrulebreakers on GitHub then afterwards joining the Discord Server, if appeal is accepted. you'll be allowed to play again in approximately 24 hours.]])
+You can appeal by going to adudu21isme/rbxrulebreakers on GitHub then afterwards joining the Discord Server, if appeal is accepted, you'll be allowed to play again in approximately 24 hours.]])
    end
 end)
 
