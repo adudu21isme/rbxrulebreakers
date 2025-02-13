@@ -36,12 +36,12 @@ Also works with https://github.com/adudu21isme/banwavedeveloperconsolescript
 print(game:GetService("HttpService"):GetAsync("https://raw.githubusercontent.com/adudu21isme/rbxrulebreakers/refs/heads/main/users"))
 ```
 ## Prevent players in the list from joining
-> It's recommended to use Parallel Luau to create the list and check if a user is in it, [parallel luau example](https://github.com/user-attachments/files/18731577/rbxrulebreakers.example.txt) (change the file extension to rbxm as github doesn't officially support rbxm format).
+> It's recommended to use Parallel Luau to create the list and check if a user is in it, [parallel luau example](https://github.com/user-attachments/files/18776796/rbxrulebreakers.txt) (change the file extension to rbxm as github doesn't officially support rbxm format).
 
 ```luau
 --// Services
-local plrs = game:GetService("Players")
 local http = game:GetService("HttpService")
+local plrs = game:GetService("Players")
 
 --// Vars
 local fetching = nil
@@ -49,7 +49,8 @@ local list = nil
 
 --// Functions
 
--- Fetches the latest list at https://github.com/adudu21isme/rbxrulebreakers
+-- Fetches the latest list of https://github.com/adudu21isme/rbxrulebreakers
+@native
 local function FetchList()
    if fetching then while task.wait(1) do if not fetching then return end end end
    fetching=true
@@ -62,8 +63,19 @@ local function FetchList()
          if string.find(r,"exceeded") then warn("⚠️RBX RATELIMIT. Waiting 30sec...")task.wait(30)else t=-1 task.wait(1)end
       end
    until s or t == 0
+   task.desynchronize()
    if s then list=string.split(r,",")end
    fetching=nil
+   task.synchronize()
+end
+
+-- Checks if the user is on the list
+@native
+local function IsOnList(id)
+   task.desynchronize()
+   local l=list and table.find(list,tostring(id))
+   task.synchronize()
+   return l
 end
 
 --// When new players join
@@ -71,14 +83,13 @@ plrs.PlayerAdded:Connect(function(p)
    local id = p.UserId
    --// Is User on list? Put this somewhere that its ok if the code yields
    if not list then FetchList()end
-   local OnList = list and table.find(list,tostring(id))
-   if OnList then
+   if IsOnList(id) then
       --// Kick the rule breaker from the game
       return p:Kick([[Violations of Roblox ToS ("Terms of Service")/Community Standards or causing false bans to users in popular games that harm the victim.
 
 Banning adudu21 from your game will not remove you from the list and will not improve your ego.
 
-You can appeal at adudu21isme/rbxrulebreakers on GitHub, if appeal is accepted. you will be allowed to play again in approximately 24 hours.]])
+You can appeal by going to adudu21isme/rbxrulebreakers on GitHub then afterwards joining the Discord Server, if appeal is accepted. you will be allowed to play again in approximately 24 hours.]])
    end
 end)
 
