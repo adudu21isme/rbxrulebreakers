@@ -36,7 +36,7 @@ Also works with https://github.com/adudu21isme/banwavedeveloperconsolescript
 print(game:GetService("HttpService"):GetAsync("https://raw.githubusercontent.com/adudu21isme/rbxrulebreakers/refs/heads/main/users"))
 ```
 ## Prevent players in the list from joining
-> You can aswell use Parallel Luau to create the list and check if a user is in it, [parallel luau example](https://github.com/user-attachments/files/18797646/rbxrulebreakers.txt) (change the file extension to rbxm as github doesn't officially support rbxm format).
+> You can aswell use Parallel Luau to create the list and check if a user within it, [parallel luau example](https://github.com/user-attachments/files/18797646/rbxrulebreakers.txt) (change the file extension to rbxm as github doesn't officially support rbxm format).
 
 ```luau
 --// Services
