@@ -4,7 +4,7 @@ Permission is hereby granted to any person to discuss about this List, to those 
 - You cannot sell the List for any currency as it must always remain FREE
 - You cannot claim ownership of the List
 
-You may only use the Content for Moderation, Informational, Safety and Educational Purposes Only.
+You may only use the List for Moderation, Informational, Safety and Educational Purposes Only.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
