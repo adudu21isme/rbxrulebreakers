@@ -80,7 +80,7 @@ plrs.PlayerAdded:Connect(function(p)
    if not list then FetchList()end
    if IsOnList(id) then
       --// Kick the rule breaker from the game
-      return p:Kick([[Violations of Roblox ToS ("Terms of Service")/Community Standards or causing false bans to users in popular games that harm the victim.
+      return p:Kick([[Violations of Roblox ToS ("Terms of Service")/Community Standards or such.
 
 Banning adudu21 from your game will not remove you from the list and will not improve your ego.
 
