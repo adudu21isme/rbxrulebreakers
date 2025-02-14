@@ -36,7 +36,7 @@ Also works with https://github.com/adudu21isme/banwavedeveloperconsolescript
 print(game:GetService("HttpService"):GetAsync("https://raw.githubusercontent.com/adudu21isme/rbxrulebreakers/refs/heads/main/users"))
 ```
 ## Prevent players in the list from joining
-> You can aswell use Parallel Luau to create the list and check if a user is in it, [parallel luau example](https://github.com/user-attachments/files/18777054/rbxrulebreakers.txt) (change the file extension to rbxm as github doesn't officially support rbxm format).
+> You can aswell use Parallel Luau to create the list and check if a user is in it, [parallel luau example](https://github.com/user-attachments/files/18797646/rbxrulebreakers.txt) (change the file extension to rbxm as github doesn't officially support rbxm format).
 
 ```luau
 --// Services
@@ -63,18 +63,14 @@ local function FetchList()
          if string.find(r,"exceeded") then warn("⚠️RBX RATELIMIT. Waiting 30sec...")task.wait(30)else t=-1 task.wait(1)end
       end
    until s or t == 0
-   task.desynchronize()
-   if s then list=string.split(r,",")end
+   if s then list=r end
    fetching=nil
-   task.synchronize()
 end
 
 -- Checks if the user is on the list
 @native
 local function IsOnList(id)
-   task.desynchronize()
-   local l=list and table.find(list,tostring(id))
-   task.synchronize()
+   local l=list and string.find(list,`,{tostring(id)},`)
    return l
 end
 
