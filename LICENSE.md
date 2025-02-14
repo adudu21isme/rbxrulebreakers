@@ -1,6 +1,6 @@
 Copyright (c) 2024-2025 adudu21
 
-Permission is hereby granted to any person to discuss about this Content, to those that use this Content you are subject to the following conditions:
+Permission is hereby granted to any person to discuss about this List, to those that use this List you are subject to the following conditions:
 - You cannot sell the Content for any currency as it must always remain FREE
 - You cannot claim ownership of the Content
 
