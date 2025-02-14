@@ -13,8 +13,6 @@ You can report and appeal in the [![Discord](https://img.shields.io/badge/Discor
 **Terminated users are likely to be removed from the list. If a user was terminated but has been unterminated and was in the list, you can request for them to be readded.**
 
 # General information
-Current Users on list (2/14/2025 4:40AM): 964.
-
 This is a list with UserId(s), Roblox UserId(s) are PUBLIC INFORMATION.
 
 This list is made for Roblox Games to use it.
