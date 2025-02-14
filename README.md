@@ -84,7 +84,7 @@ plrs.PlayerAdded:Connect(function(p)
 
 Banning adudu21 from your game will not remove you from the list and will not improve your ego.
 
-You can appeal by going to adudu21isme/rbxrulebreakers on GitHub then afterwards joining the Discord Server, if appeal is accepted, you'll be allowed to play again in approximately 1 hour.]])
+You can appeal via joining the Discord Server, to find it, go to adudu21isme/rbxrulebreakers on GitHub and you'll see it in README.md, if appeal is accepted, you'll be allowed to play again in approximately 1 hour.]])
    end
 end)
 
