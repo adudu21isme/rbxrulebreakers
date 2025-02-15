@@ -90,7 +90,7 @@ You can appeal via joining the Discord Server, to find it, go to adudu21isme/rbx
    end
 end)
 
---// Update list cache every day (24 hours, 86400 seconds total)
+--// Update list cache every hour
 task.spawn(function()
    while task.wait(3600) do
       FetchList()
