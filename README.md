@@ -17,6 +17,8 @@ This is a list with UserId(s), Roblox UserId(s) are PUBLIC INFORMATION.
 
 This list is made for Roblox Games to use it.
 
+Official Roblox Community/Group for rbxrulebreakers is https://www.roblox.com/communities/35633326/rbxrulebreakers
+
 > This is to let you know what would count as a violation (not all is listed)
 
 1. Child endangerment
