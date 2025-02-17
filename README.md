@@ -30,8 +30,6 @@ Official Roblox Community/Group for rbxrulebreakers is https://www.roblox.com/co
 
 Every once in awhile or so, the status's of the users in the list will be checked (including Bio ("About me") for harmful content), additionally, their friends Bios ("About me") may aswell be checked for harmful content. To the providers of the services that are used to check, a header named "X-FriendChecker" alongside "X-Checker" is provided.
 
-Also works with https://github.com/adudu21isme/banwavedeveloperconsolescript
-
 # Usage
 > These are examples. The game must have HTTP Requests Enabled.
 ## Fetch list
