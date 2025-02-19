@@ -15,18 +15,17 @@ You can report and appeal in the [![Discord](https://img.shields.io/badge/Discor
 # General information
 This is a list with UserId(s), Roblox UserId(s) are PUBLIC INFORMATION.
 
-This list is made for Roblox Games to use it.
+This list is made for Roblox Game Developers to use it.
 
 Official Roblox Community/Group for rbxrulebreakers is https://www.roblox.com/communities/35633326/rbxrulebreakers
 
 > This is to let you know what would count as a violation (not all is listed)
 
-1. Child endangerment
-2. Exploiting (using third-party software to tamper with Roblox)
-3. Excessive Toxicity (Bullying, Harassment, Threats)
-4. Harmful misinformation
-5. Scamming
-8. False reasons onto a game ban that can negatively impact the person (4, several other violations are required for this to be added as one)
+1. Child Endangerment (we have an automatic tool to find users that violate this rule and if found, human review to add onto list or not)
+2. Exploiting (using third-party software to tamper with Roblox. If a user is detected for cheating in a roblox game affiliated with adudu21, they may be added onto the list)
+3. Excessive Harmful Toxicity (Bullying, Harassment, Threats)
+4. Harmful Misinformation (depends)
+5. Mass Scamming
 
 Every once in awhile or so, the status's of the users in the list will be checked (including Bio ("About me") for harmful content), additionally, their friends Bios ("About me") may aswell be checked for harmful content. To the providers of the services that are used to check, a header named "X-FriendChecker" alongside "X-Checker" is provided.
 
