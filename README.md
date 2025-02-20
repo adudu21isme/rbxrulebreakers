@@ -12,6 +12,15 @@ You can report and appeal in the [![Discord](https://img.shields.io/badge/Discor
 
 **Terminated users are likely to be removed from the list. If a user was terminated but has been unterminated and was in the list, you can request for them to be readded.**
 
+# Quick FAQ
+Q: "You're adding everyone onto the list!"
+
+A: We do not "add everyone" onto the list, we only add users which have exploited in roblox games, ERP'ed or do terrible actions. We have responsible individuals reviewing reports and such. Users are flagged for review if they are friends with any bad account on the list. If you really do not trust such a list, you are not forced to use it.
+-
+Q: "What is this for?"
+
+A: To prevent individuals that can harm your playberbase or such from playing your games.
+
 # General information
 This is a list with UserId(s), Roblox UserId(s) are PUBLIC INFORMATION.
 
