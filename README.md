@@ -19,7 +19,7 @@ A: We do not "add everyone" onto the list, we only add users which have exploite
 -
 Q: What is this for?
 
-A: To prevent individuals that can harm your playberbase or such from playing your games.
+A: To prevent individuals that can harm your playberbase or such.
 
 Q: Why and when did this exist?
 
