@@ -17,19 +17,13 @@ Q: "You're adding everyone onto the list!"
 
 A: We do not "add everyone" onto the list, we only add users which have exploited in roblox games, ERP'ed or do terrible actions. We have responsible individuals reviewing reports and such. Users are flagged for review if they are friends with any bad account on the list. If you really do not trust such a list, you are not forced to use it.
 
--
-
 Q: What is this for?
 
 A: To prevent individuals that can harm your playberbase or such.
 
--
-
 Q: Why and when did this exist?
 
 A: The RbxRuleBreakers List has been active since November 17, 2024. The reason why this was created is because adudu21 has gotten tired of how many rule breakers exist and was as-well inspired by Moderation For Dummies (another project/organization, created by Ruben Sim).
-
--
 
 You may find more questions within the [![Discord](https://img.shields.io/badge/Discord-black.svg?logo=Discord&logoColor=white)](https://discord.gg/U7JstgHdyg) Server.
 
