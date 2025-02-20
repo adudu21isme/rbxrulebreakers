@@ -3,7 +3,7 @@
 # Roblox Exploiters and Terms of Service/Community Standards Violators List 
 > A list of users which violates the rules of roblox (that can be considered serious violations) so you can prevent them from joining your Roblox Game
 
-# Reports and Appeals
+# ⚠️Reports and Appeals❗
 **Before requesting for a user to be added onto the list, it's suggested that you use Roblox's Reporting Features, if you're in the EU, you can visit https://www.roblox.com/illegal-content-reporting and afterwards report the user to roblox there (EU Reports have a higher chance to be accepted than regular roblox reports).**
 
 You can report and appeal in the [![Discord](https://img.shields.io/badge/Discord-black.svg?logo=Discord&logoColor=white)](https://discord.gg/U7JstgHdyg) Server.
@@ -12,7 +12,7 @@ You can report and appeal in the [![Discord](https://img.shields.io/badge/Discor
 
 **Terminated users are likely to be removed from the list. If a user was terminated but has been unterminated and was in the list, you can request for them to be readded.**
 
-# Quick FAQ
+# ❓Quick FAQ
 Q: "You're adding everyone onto the list!"
 
 A: We do not "add everyone" onto the list, we only add users which have exploited in roblox games, ERP'ed or do terrible actions. We have responsible individuals reviewing reports and such. Users are flagged for review if they are friends with any bad account on the list. If you really do not trust such a list, you are not forced to use it.
@@ -21,8 +21,10 @@ Q: "What is this for?"
 
 A: To prevent individuals that can harm your playberbase or such from playing your games.
 
+You may find more questions within the [![Discord](https://img.shields.io/badge/Discord-black.svg?logo=Discord&logoColor=white)](https://discord.gg/U7JstgHdyg) Server.
+
 # General information
-This is a list with UserId(s), Roblox UserId(s) are PUBLIC INFORMATION.
+This is a list with Roblox UserId(s), Roblox UserId(s) are PUBLIC INFORMATION.
 
 This list is made for Roblox Game Developers to use it.
 
