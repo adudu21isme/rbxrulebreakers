@@ -3,7 +3,7 @@
 # Roblox Exploiters and Terms of Service/Community Standards Violators List 
 > A list of users which violates the rules of roblox (that can be considered serious violations) so you can prevent them from joining your Roblox Game
 
-# ⚠️Reports and Appeals❗
+# ❗Reports and Appeals📄
 **Before requesting for a user to be added onto the list, it's suggested that you use Roblox's Reporting Features, if you're in the EU, you can visit https://www.roblox.com/illegal-content-reporting and afterwards report the user to roblox there (EU Reports have a higher chance to be accepted than regular roblox reports).**
 
 You can report and appeal in the [![Discord](https://img.shields.io/badge/Discord-black.svg?logo=Discord&logoColor=white)](https://discord.gg/U7JstgHdyg) Server.
