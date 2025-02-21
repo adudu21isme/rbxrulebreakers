@@ -49,7 +49,7 @@ Every once in awhile or so, the status's of the users in the list will be checke
 ## Fetch list
 > Outputs the list.
 ```luau
-print(game:GetService("HttpService"):GetAsync("https://raw.githubusercontent.com/adudu21isme/rbxrulebreakers/refs/heads/main/users"))
+print(game:GetService("HttpService"):GetAsync("https://raw.githubusercontent.com/adudu21isme/rbxrulebreakers/main/users"))
 ```
 ## Prevent players in the list from joining
 
@@ -72,7 +72,7 @@ local function FetchList()
    local s,r,t=nil,nil,3
    repeat
       s,r=pcall(function()
-         return http:GetAsync("https://raw.githubusercontent.com/adudu21isme/rbxrulebreakers/refs/heads/main/users",true)
+         return http:GetAsync("https://raw.githubusercontent.com/adudu21isme/rbxrulebreakers/main/users",true)
       end)
       if not s then
          if string.find(r,"exceeded") then warn("⚠️RBX RATELIMIT. Waiting 30sec...")task.wait(30)else t=-1 task.wait(1)end
