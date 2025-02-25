@@ -19,7 +19,7 @@ A: We do not "add everyone" onto the list, we only add users which have exploite
 
 Q: What is this for?
 
-A: To prevent individuals that can harm your playberbase or such.
+A: To prevent individuals that can harm your playerbase or such.
 
 Q: Why and when did this exist?
 
