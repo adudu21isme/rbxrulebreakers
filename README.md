@@ -45,6 +45,7 @@ Official Roblox Community/Group for rbxrulebreakers is https://www.roblox.com/co
 Every once in awhile or so, the status's of the users in the list will be checked (including Bio ("About me") for harmful content), additionally, their friends Bios ("About me") may aswell be checked for harmful content. To the providers of the services that are used to check, a header named "X-FriendChecker" alongside "X-Checker" is provided.
 
 # Usage
+Please join the [![Discord](https://img.shields.io/badge/Discord-black.svg?logo=Discord&logoColor=white)](https://discord.gg/U7JstgHdyg) Server before using the list for your games, if there's any important announcements or such, you'll be notified there.
 > These are examples. The game must have HTTP Requests Enabled.
 ## Fetch list
 > Outputs the list.
