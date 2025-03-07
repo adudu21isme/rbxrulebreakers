@@ -1,12 +1,14 @@
 ![Adudu21's Roblox Rule Breakers](https://github.com/user-attachments/assets/0bf4c22b-7b7e-4118-b787-4ae0502a4e1f)
 
+[![Discord Server][shield-discord-server]][discord-invite]
+
 # Roblox Exploiters and Terms of Service/Community Standards Violators List 
 > A list of users which violates the rules of roblox (that can be considered serious violations) so you can prevent them from joining your Roblox Game
 
 # ❗Reports and Appeals📄
 **Before requesting for a user to be added onto the list, it's suggested that you use Roblox's Reporting Features, if you're in the EU, you can visit https://www.roblox.com/illegal-content-reporting and afterwards report the user to roblox there (EU Reports have a higher chance to be accepted than regular roblox reports).**
 
-You can report and appeal in the [![Discord](https://img.shields.io/badge/Discord-black.svg?logo=Discord&logoColor=white)](https://discord.gg/U7JstgHdyg) Server.
+You can report and appeal in [![Discord Server][shield-discord-server]][discord-invite].
 
 **Users are ONLY added if they actually broke the rules. Reports and appeals are carefully read if it's a legitimate report/appeal.**
 
@@ -25,7 +27,7 @@ Q: Why and when did this exist?
 
 A: The RbxRuleBreakers List has been active since November 17, 2024. The reason why this was created is because adudu21 had gotten tired of how many rule breakers exist and was as-well inspired by Moderation For Dummies (another project/organization, created by Ruben Sim).
 
-You may find more questions within the [![Discord](https://img.shields.io/badge/Discord-black.svg?logo=Discord&logoColor=white)](https://discord.gg/U7JstgHdyg) Server.
+You may find more questions within [![Discord Server][shield-discord-server]][discord-invite].
 
 # General information
 This is a list with Roblox UserId(s), Roblox UserId(s) are PUBLIC INFORMATION.
@@ -45,7 +47,7 @@ Official Roblox Community/Group for rbxrulebreakers is https://www.roblox.com/co
 Every once in awhile or so, the status's of the users in the list will be checked (including Bio ("About me") for harmful content), additionally, their friends Bios ("About me") may aswell be checked for harmful content. To the providers of the services that are used to check, a header named "X-FriendChecker" alongside "X-Checker" is provided.
 
 # Usage
-Please join the [![Discord](https://img.shields.io/badge/Discord-black.svg?logo=Discord&logoColor=white)](https://discord.gg/U7JstgHdyg) Server before using the list for your game(s), if there's any important announcements or such, you'll be notified there.
+Please join the [![Discord][shield-discord-server]][discord-invite] Server before using the list for your game(s), if there's any important announcements or such, you'll be notified there.
 > These are examples. The game must have HTTP Requests Enabled.
 ## Fetch list
 > Outputs the list.
@@ -114,3 +116,6 @@ end)
 ```
 
 # This repository is created for informational, educational, moderation, and safety purposes only. This repository is not intended to target, harass or bully any individual mentioned. We strongly condemn harassment, bullying, raiding and any form of online misconduct. Users are reminded to engage respectfully and responsibly.
+
+[shield-discord-server]: https://img.shields.io/discord/1335018287209123890?logo=discord&logoColor=white&label=discord&color=000000
+[discord-invite]:  https://discord.gg/U7JstgHdyg
