@@ -49,6 +49,7 @@ Every once in awhile or so, the status's of the users in the list will be checke
 # Usage
 Please join the [![Discord][shield-discord-server]][discord-invite] Server before using the list for your game(s), if there's any important announcements or such, you'll be notified there.
 > These are examples. The game must have HTTP Requests Enabled.
+> If your game has at-least 500K Visits and 1000+ DAU, you may create an inquiry within the Discord Server for it to be listed in https://devforum.roblox.com/t/adudu21s-rbxrulebreakers-list/3506160. 
 ## Fetch list
 > Outputs the list.
 ```luau
