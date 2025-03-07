@@ -13,9 +13,9 @@ You can report and appeal in the [![Discord](https://img.shields.io/badge/Discor
 **Terminated users are likely to be removed from the list. If a user was terminated but has been unterminated and was in the list, you can request for them to be readded.**
 
 # ❓Quick FAQ
-Q: "You're adding everyone onto the list!"
+Q: "You're adding everyone into the list!"
 
-A: We do not "add everyone" onto the list, we only add users which have exploited in roblox games, ERP'ed or do terrible actions. We have responsible individuals reviewing reports and such. Users are flagged for review if they are friends with any bad account on the list. If you really do not trust such a list, you are not forced to use it.
+A: We do not "add everyone" into the list, we only add users which have exploited in roblox games, ERP'ed or do terrible actions. We have responsible individuals reviewing reports and such. Users are flagged for review if they are friends with any bad account on the list. If you really do not trust such a list, you are not forced to use it.
 
 Q: What is this for?
 
@@ -37,7 +37,7 @@ Official Roblox Community/Group for rbxrulebreakers is https://www.roblox.com/co
 ##  This is to let you know what would count as a violation (not all is listed)
 
 1. Child Endangerment (we have an automatic tool to find users that violate this rule and if found, human review to add onto list or not)
-2. Exploiting (using third-party software to tamper with Roblox. If a user is detected for cheating in a roblox game affiliated with adudu21, they may be added onto the list)
+2. Exploiting (using third-party software to tamper with Roblox. If a user is detected for cheating in a roblox game affiliated with adudu21, they may be added into the list)
 3. Excessive Harmful Toxicity (Bullying, Harassment, Threats)
 4. Excessive Harmful Misinformation
 5. Mass Scamming
