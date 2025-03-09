@@ -1,4 +1,4 @@
-This repository is being moved to an organization.
+This repository is currently being moved to https://github.com/rbxrulebreakers/list.
 
 We are not official Roblox! If you need help from roblox then go to https://www.roblox.com/support.
 
