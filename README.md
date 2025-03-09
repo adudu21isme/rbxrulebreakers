@@ -74,47 +74,47 @@ local list = nil
 -- Fetches the latest list of https://github.com/adudu21isme/rbxrulebreakers
 @native
 local function FetchList()
-	if fetching then while task.wait(1) do if not fetching then return end end end
-	fetching=true
-	local s,r,t=nil,nil,3
-	repeat
-		s,r=pcall(function()
-			return http:GetAsync("https://raw.githubusercontent.com/adudu21isme/rbxrulebreakers/main/users",true)
-		end)
-		if not s then
-			if string.match(r,"exceeded") then warn("⚠️RBX RATELIMIT. Waiting 30sec...")task.wait(30)else t=-1 task.wait(1)end
-		end
-	until s or t == 0
-	if s then list=r end
-	fetching=nil
+   if fetching then while task.wait(1) do if not fetching then return end end end
+   fetching=true
+   local s,r,t=nil,nil,3
+   repeat
+      s,r=pcall(function()
+         return http:GetAsync("https://raw.githubusercontent.com/adudu21isme/rbxrulebreakers/main/users",true)
+      end)
+      if not s then
+         if string.match(r,"exceeded") then warn("⚠️RBX RATELIMIT. Waiting 30sec...")task.wait(30)else t=-1 task.wait(1)end
+      end
+   until s or t == 0
+   if s then list=r end
+   fetching=nil
 end
 
 -- Checks if the user is on the list. Use Parallel Luau?
 @native
 local function IsOnList(id)
-	return list and string.match(list,`,{id},`)
+   return list and string.match(list,`,{id},`)
 end
 
 --// When new players join
 plrs.PlayerAdded:Connect(function(p)
-	local id = p.UserId
-	--// Is User on list? Put this somewhere that its ok if the code yields
-	if not list then FetchList()end
-	if IsOnList(id) then
-		--// Kick the rule breaker from the game
-		return p:Kick([[Violations of Roblox ToS ("Terms of Service")/Community Standards or such.
+   local id = p.UserId
+   --// Is User on list? Put this somewhere that its ok if the code yields
+   if not list then FetchList()end
+   if IsOnList(id) then
+      --// Kick the rule breaker from the game
+      return p:Kick([[Violations of Roblox ToS ("Terms of Service")/Community Standards or such.
 
 Banning adudu21 from your game will not remove you from the list and will not improve your ego.
 
 You can appeal via joining the Discord Server, to find it, go to adudu21isme/rbxrulebreakers on GitHub and you'll see it in README.md, if appeal is accepted, you'll be allowed to play again in approximately 1 hour.]])
-	end
+   end
 end)
 
 --// Update list cache every hour
 task.spawn(function()
-	while task.wait(3600) do
-		FetchList()
-	end
+   while task.wait(3600) do
+      FetchList()
+   end
 end)
 ```
 
