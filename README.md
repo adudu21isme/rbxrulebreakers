@@ -17,7 +17,7 @@ You can report and appeal in [![Discord Server][shield-discord-server]][discord-
 # ❓Quick FAQ
 Q: "You're adding everyone into the list!"
 
-A: We do not "add everyone" into the list, we only add users which have exploited in roblox games, ERP'ed or do terrible actions. We have responsible individuals reviewing reports and such. Users are flagged for review if they are friends with any bad account on the list. If you really do not trust such a list, you are not forced to use it.
+A: We do not "add everyone" into the list, we only add users which have exploited in roblox games, ERP'ed or did very bad actions. We have responsible individuals reviewing reports and such. Users are flagged for review if they are friends with any bad account on the list. If you really do not trust such a list, you are not forced to use it.
 
 Q: What is this for?
 
@@ -38,7 +38,7 @@ Official Roblox Community/Group for rbxrulebreakers is https://www.roblox.com/co
 
 ##  This is to let you know what would count as a violation (not all is listed)
 
-1. Child Endangerment (we have an automatic tool to find users that violate this rule and if found, human review to add onto list or not)
+1. Violations that would result in permanent suspension from Roblox
 2. Exploiting (using third-party software to tamper with Roblox. If a user is detected for cheating in a roblox game affiliated with adudu21, they may be added into the list)
 3. Excessive Harmful Toxicity (Bullying, Harassment, Threats)
 4. Excessive Harmful Misinformation
