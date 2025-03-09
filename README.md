@@ -1,8 +1,9 @@
+We are not official Roblox! If you need help from roblox then go to https://www.roblox.com/support.
 ![Adudu21's Roblox Rule Breakers](https://github.com/user-attachments/assets/0bf4c22b-7b7e-4118-b787-4ae0502a4e1f)
 
 [![Discord Server][shield-discord-server]][discord-invite]
 
-# Roblox Exploiters and Terms of Service/Community Standards Violators List 
+# Adudu21's Roblox Exploiters and Terms of Service/Community Standards Violators List 
 > A list of users which violates the rules of roblox (that can be considered serious violations) so you can prevent them from joining your Roblox Game
 
 # ❗Reports and Appeals📄
