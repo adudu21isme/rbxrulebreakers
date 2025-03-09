@@ -92,8 +92,7 @@ end
 -- Checks if the user is on the list. Use Parallel Luau?
 @native
 local function IsOnList(id)
-   local l=list and string.find(list,`,{id},`)
-   return l
+   return list and string.match(list,`,{id},`)
 end
 
 --// When new players join
